@@ -20,8 +20,8 @@ application:
 
     # 仅支持 http/https，不限定响应内容格式
     remote:
-#      - name: 'example rule' #规则名称
-#        path: 'https://example.org/rule.txt' #规则地址
+      - name: 'DD-AD' #规则名称
+        path: 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
 
     #本地规则请将文件放置到项目路径rule目录中
