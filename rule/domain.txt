@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-07-23 16:17:00
+! Last Modified: 2023-07-24 00:17:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
@@ -49,6 +49,7 @@
 ||69ed4fcc9d.com^
 ||alrightastound.com^
 ||cytonsketupa.com^
+||ulogjs.gifshow.com^
 ||dogwrite.com^
 ||blockscoolest.com^
 ||boustahe.com^
@@ -277,13 +278,13 @@
 ||b325a35aa1.com^
 ||advertmarketing.com^
 ||eephaush.com^
+||logtj.kugou.com^
 ||b2be2dbdc8.com^
 ||endowverb.com^
 ||choreasoutpour.com^
 ||bailifftoddle.com^
 ||centpopped.com^
 ||adxpremium.services^
-||p3-lm.adukwai.com^
 ||dodurantom.com^
 ||adrevenuerescue.com^
 ||4i-app-mobile.com^
@@ -545,6 +546,7 @@
 ||angelesfoldingpatsy.com^
 ||b7om8bdayac6at.com^
 ||atonato.de^
+@@||m.jingxi.com^
 ||cartedneogene.com^
 ||clfxjrlui.com^
 ||delnapb.com^
@@ -853,7 +855,6 @@
 ||cxovwczosr.com^
 ||bincatracs.com^
 ||auditioningborder.com^
-||v2-lm.adukwai.com^
 ||betklefkior.com^
 ||ensban.com^
 ||bkuhkifadcaz.com^
@@ -1609,11 +1610,16 @@
 ||accustomreview.com^
 ||defensetraverse.com^
 ||blubberspoiled.com^
+||4c935d6a244f.com^
+||brygella.com^
 ||cm.bilibili.com^
 ||adscale.de^
+||babyniceshark.com^
 ||cyrigh.com^
 ||dacmaiss.com^
+||benzolescabrin.com^
 ||disappearanceinspiredscan.com^
+||51cf9c517a.com^
 ||bricts.com^
 ||v6-novelapp.fqnovelvod.com^
 ||mobads-pre-config.cdn.bcebos.com^
@@ -1716,7 +1722,6 @@
 ||ayads.co^
 ||comparisonpredatororigin.com^
 ||57debc89a6.com^
-||jstatic.3.cn^
 ||bowmoolog.com^
 ||detinetcallant.com^
 ||1redira.com^
@@ -1767,7 +1772,6 @@
 ||ajjhtetv87.com^
 ||duriff.com^
 ||boastpretenddied.com^
-||p5-lm.adukwai.com^
 ||adsagony.com^
 ||alanticgecking.uno^
 ||bembexpps.life^
@@ -2106,6 +2110,7 @@
 ||dtoo1.space^
 ||81f49d8375.com^
 ||adcdn.tencentmusic.com^
+||log-upload-os.hoyoverse.com^
 ||adhoc4.net^
 ||aivoonsa.xyz^
 ||blizzardcinnamonappointed.com^
@@ -2279,7 +2284,6 @@
 ||appdistracted.com^
 ||appraisesmoker.com^
 ||circlegrandsonnod.com^
-||v1-lm.adukwai.com^
 ||alxfixnrip.com^
 ||ads.rd.linksynergy.com^
 ||cdn-server.top^
@@ -2534,6 +2538,7 @@
 ||bulletproxy.ch^
 ||enoskees.space^
 ||absolutelytowns.com^
+||log-upload.mihoyo.com^
 ||bongacams7.com^
 ||dazhantai.com^
 ||dynspt.com^
@@ -2558,7 +2563,6 @@
 ||anamaembush.com^
 ||aaaaaco.com^
 ||cursormedicabnormal.com^
-||p1-lm.adukwai.com^
 ||amntryowzak.com^
 ||dispop.com^
 ||bloggerex.com^
@@ -2825,7 +2829,6 @@
 ||axiomszanjona.com^
 ||apathiaherbist.com^
 ||dispatchfeed.com^
-||p2-jx.adukwai.com^
 ||addoer.com^
 ||5wuefo9haif3.com^
 ||antidotefoepersecution.com^
@@ -2945,7 +2948,6 @@
 ||clickoutnetwork.care^
 ||ccjzuavqrh.com^
 ||adotic.com^
-||v5-lm.adukwai.com^
 ||ahabcaca.com^
 ||bodilywondering.com^
 ||broced.co^
@@ -3340,7 +3342,6 @@
 ||brummymacduff.com^
 ||moatads.com^
 ||cehuihfos.com^
-||v3-lm.adukwai.com^
 ||cuddlethehyena.com^
 ||astivysauran.com^
 ||anjlkkyhpp.com^
@@ -3469,7 +3470,6 @@
 ||almareepom.com^
 ||arwhismura.com^
 ||ayvcjvdfk.xyz^
-||p2-lm.adukwai.com^
 ||bidder.dev^
 ||ajflwavi.com^
 ||chimarssensory.com^
@@ -3682,7 +3682,6 @@
 ||eexaitie.net^
 ||emptem.com^
 ||w1.iskwai.com^
-||p4-lm.adukwai.com^
 ||eb1a6329bb.com^
 ||58915e0a30.com^
 ||doneoftheow.com^
@@ -3775,6 +3774,7 @@
 ||clergymanwonderful.com^
 ||chdikbghrosxa.xyz^
 ||atedmonastyd.xyz^
+||jswebcollects.kugou.com^
 ||appearanceinjunctionwebsite.com^
 ||ctobsnssdk.com^
 ||backetkidlike.com^
@@ -4082,7 +4082,6 @@
 ||additionalcasualcabinet.com^
 ||allowbecome.com^
 ||brominewf.guru^
-||m.jingxi.com^
 ||coofumberty.digital^
 ||arshadsafrash.com^
 ||axkwmsivme.com^
@@ -4259,6 +4258,7 @@
 ||asev.xyz^
 ||ashcdn.com^
 ||cqlupb.com^
+@@||jstatic.3.cn^
 ||eesihighlyrec.xyz^
 ||assistancespectacles.com^
 ||ad-guardian.com^
@@ -4393,7 +4393,6 @@
 ||daphnidepoch.com^
 ||dersoova.net^
 ||disasterthoughtless.com^
-||p1-jx.adukwai.com^
 ||descriptionheels.com^
 ||adtruism.com^
 ||8659c84895.com^
@@ -5045,7 +5044,6 @@
 ||aecyrdlcvjdfcus.com^
 ||aabproxytests.top^
 ||5b955d4c78.com^
-||v4-lm.adukwai.com^
 ||allureencourage.com^
 ||chijauqybb.xyz^
 ||79xmz3lmss.com^
@@ -5203,6 +5201,7 @@
 ||b1bf05979e.com^
 ||clickgate08.biz^
 ||burringspor.com^
+||adjust.cn^
 ||6bbd7f9440.com^
 ||batteusp2hilenor.com^
 ||0a05d34d6f.com^
@@ -11203,14 +11202,9 @@
 ||houpeera.net^
 ||guerrerevisal.website^
 ||pubfuture-ad.com^
-||4c935d6a244f.com^
-||brygella.com^
-||babyniceshark.com^
 ||jizzensirrah.com^
 ||fortorterrar.com^
-||benzolescabrin.com^
 ||fighla.com^
-||51cf9c517a.com^
 ||poiseacacialaw.com^
 ||bjakku.com^
 ||awayteemage.com^
@@ -12378,7 +12372,12 @@
 ||atedlittleme.xyz^
 ||2jmis11eq.de^
 ||4d3dc84aec.com^
+||forexclub.ru^
+||gosoftwarenow.com^
+||natapea.com^
+||nibzitgas.com^
 ||caperedlevi.com^
+||oklzdmdhqgxsu.com^
 ||5d4170700c.com^
 ||5726303d87522d05.com^
 ||cbilrirtqyawue.com^
@@ -20054,12 +20053,7 @@
 ||shakesanitaryaffairs.com^
 ||tolerableinflectionkazan.com^
 ||zeotap.com^
-||forexclub.ru^
-||gosoftwarenow.com^
-||natapea.com^
-||nibzitgas.com^
 ||safelinkconverter.com^
-||oklzdmdhqgxsu.com^
 ||rreleaseavailan.xyz^
 ||tvprocessing.com^
 ||ypvrnyovntabcfp.xyz^
@@ -24329,13 +24323,18 @@
 ||thoomsay.com^
 ||srtrak.com^
 ||vidforclips.space^
+||runmixed.com^
 ||featurelink.com^
+||validsquatcyber.com^
 ||mmotraffic.com^
+||urboja.com^
 ||qhnwj.com^
 ||onclickmega.com^
+||xebadu.com^
 ||faestara.com^
 ||glpeaoauwevlns.com^
 ||pinkpig2le8tt09.com^
+||wingersunbrand.com^
 ||heroadmissionfinalize.com^
 ||ludicroussignify.com^
 ||ougribot.net^
@@ -26351,15 +26350,20 @@
 ||mtrcs.popcap.com^
 ||a8.cbd-cosme.jp^
 ||gbqofs.com^
+||smetrics.beachbody.com^
 ||tixnd.xyz^
 ||ykotyeo.cn^
 ||fancyactivity.com^
+||a8.freeconsultant.btcagent.jp^
+||a8cv.chuoms.com^
+||data.t.worldvision.ca^
 ||songlongtech.com^
 ||elasticchange.com^
 ||steepsquirrel.com^
 ||fxx79.pro^
 ||vi1.souid.com^
 ||guidecent.com^
+||distillery.wistia.com^
 ||qycfqk.xyz^
 ||d37pempw0ijqri.cloudfront.net^
 ||cvlb.dev^
@@ -33628,19 +33632,14 @@
 ||shakegoldfish.com^
 ||ac.art456.com^
 ||801.tianyaui.com^
-||runmixed.com^
 ||videosvc.ezoic.com^
 ||a.baomihua.com^
 ||zaiyuanyqq.com^
 ||ypoiea.xyz^
-||validsquatcyber.com^
 ||zanlisgq.fun^
-||urboja.com^
-||xebadu.com^
 ||ghwsuoe.cn^
 ||bd888.qizuang.com^
 ||salsify-ecdn.com^
-||wingersunbrand.com^
 ||d86n.top^
 ||sbroiughttohi.xyz^
 ||spottedsnow.com^
@@ -35927,13 +35926,9 @@ ubmcmm.baidustatic.com
 ||skillshouse.actonservice.com^
 ||ssc.currenttime.tv^
 ||tr.news.kpmgacademy.fr^
-||smetrics.beachbody.com^
 ||deut2.fdj.fr^
-||a8.freeconsultant.btcagent.jp^
-||a8cv.chuoms.com^
 ||pgs.farmprogress.com^
 ||ea.nomade-aventure.com^
-||data.t.worldvision.ca^
 ||ebiscname.urr.jp^
 ||technologyadvice.actonservice.com^
 ||ch0p.darty.com^
@@ -35941,7 +35936,6 @@ ubmcmm.baidustatic.com
 ||www91.intel.com.br^
 ||smetrics.libertymutual.com^
 ||get.diamanti.com^
-||distillery.wistia.com^
 ||marketing.willamettewines.com^
 ||eloqua.brakepartsinc.com^
 ||ea.zgeneration.com^
@@ -41637,6 +41631,11 @@ arketing.indianadunes.com^
 ||smetrics.racv.com.au^
 ||smetrics.sympany.ch^
 ||a8net.kitamura-print.com^
+||tr.urfk057.espmp-aufr.net^
+||gwguyh.edreams.es^
+||smetrics.zehrs.ca^
+||secure.haag0some.com^
+||smetrics.kone.com.kh^
 ||smetrics.bms.com^
 ||tracking.magnetmail.net^
 ||smetrics.friskies.com^
@@ -46699,13 +46698,8 @@ adxvip.com
 ||mail.tops.co.th^
 ||wa.web.de^
 ||links.thriveglobal.com^
-||tr.urfk057.espmp-aufr.net^
-||gwguyh.edreams.es^
 ||link.invoiceowl.com^
-||smetrics.zehrs.ca^
 ||19035955.automated.tajawal.com^
-||secure.haag0some.com^
-||smetrics.kone.com.kh^
 ||link.instabridge.com^
 ||s.imagica.ai^
 ||marketing.syntrio.com^
