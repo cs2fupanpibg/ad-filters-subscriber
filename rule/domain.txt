@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-07-24 09:19:49
+! Last Modified: 2023-07-24 16:19:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
@@ -1400,8 +1400,6 @@
 ||druggedsilurid.com^
 ||avazu.net^
 ||countlesstrustworthylamb.com^
-||adversespurt.com^
-||dtprofit.com^
 ||bd-proxy.pull.yximgs.com^
 ||answerroad.com^
 ||cebygijy.pro^
@@ -1608,6 +1606,7 @@
 ||croakconfirmedget.com^
 ||emodinlighten.com^
 ||cecjjkiutbvu.com^
+||csjplatform.com^
 ||desalthuns.com^
 ||caraneoutraze.uno^
 ||330e4e8090.com^
@@ -4321,7 +4320,6 @@
 ||cumult.com^
 ||coercerwhuther.com^
 ||acerbictierer.com^
-||www.csjplatform.com^
 ||dig.bdurl.net^
 ||da03ab7249.com^
 ||decorationproducer.com^
@@ -4717,6 +4715,7 @@
 ||61739011039d41a.com^
 ||ahnioppshfwq.com^
 ||edshook.xyz^
+||ads.95516.com^
 ||courtsbeltmen.com^
 ||banteryquartin.com^
 ||dynamicdn.com^
@@ -5016,6 +5015,7 @@
 ||eiewwepb.com^
 ||blissfulblackout.com^
 ||dprtb.com^
+||mobileservice.cn^
 ||4f4e1936f7.com^
 ||dronedgentile.com^
 ||domyroundel.guru^
@@ -11048,6 +11048,8 @@
 ||pugdisguise.com^
 ||madratesforall.com^
 ||ilovemakingpics.com^
+||adversespurt.com^
+||dtprofit.com^
 ||arthyadtrack.online^
 ||patroposalun.pro^
 ||libedgolart.com^
@@ -12154,9 +12156,7 @@
 ||hasdrs.com^
 ||clearonclick.com^
 ||hwpnocpctu.com^
-||nyrithenrebarro.info^
 ||emerizeculler.com^
-||giuntatrub.website^
 ||abcporntube.com^
 ||clickupto.com^
 ||bandsaislevow.com^
@@ -20186,6 +20186,8 @@
 ||zhmzsjvkii.com^
 ||sungarnonsane.com^
 ||thursailso.com^
+||nyrithenrebarro.info^
+||giuntatrub.website^
 ||glurdoat.com^
 ||hfib5s-sdds-248d.xyz^
 ||rmbmsqtryo.com^
@@ -23604,12 +23606,10 @@
 ||tjavravj.com^
 ||pigukkyfrgjfj.com^
 ||nomeuspagrus.com^
-||therapistpresumegooseberry.com^
 ||mawlaybob.com^
 ||eurse.com^
 ||mediasprucetree.com^
 ||newrtbbid.com^
-||tydouke.com^
 ||loboclick.com^
 ||kocaisin.xyz^
 ||obspkoirhnvq.xyz^
@@ -26404,8 +26404,6 @@
 ||events.mikescerealshack.co^
 ||dqcztxmu.com^
 ||nctrk.abmail.com.br^
-||bnr.alza.cz^
-||rt.flix360.com^
 ||pic123.top^
 ||troxa.xyz^
 ||googleoptimize.com^
@@ -32517,8 +32515,10 @@
 ||d5d3sg85gu7o6.cloudfront.net^
 ||fatvzh.xyz^
 ||fpb1.jsq886.com^
+||therapistpresumegooseberry.com^
 ||pic.fengniao.com^
 ||same.chinadaily.com.cn^
+||tydouke.com^
 ||randallbesin.com^
 ||routerhydrula.com^
 ||yqiyazkddb.com^
@@ -36013,7 +36013,9 @@ arketing.indianadunes.com^
 ||smetrics.landa.com^
 ||media.pirtek.co.uk^
 ||tr.urfk05g.espmp-agfr.net^
+||bnr.alza.cz^
 ||smetrics.virtual-cosme.net^
+||rt.flix360.com^
 ||top.skyzone.ro^
 ||stats.lestypesdefarine.fr^
 ||data.service.aware.com.au^
@@ -41608,9 +41610,7 @@ arketing.indianadunes.com^
 ||smetrics.zehrs.ca^
 ||secure.haag0some.com^
 ||smetrics.kone.com.kh^
-||smetrics.bms.com^
 ||tracking.magnetmail.net^
-||marketing.syntrio.com^
 ||sync.adap.tv^
 ||counter.reddigital.ru^
 ||zippywind.com^
@@ -47006,8 +47006,10 @@ adxvip.com
 ||web.info.bonprix.es^
 ||link.invoiceowl.com^
 ||19035955.automated.tajawal.com^
+||smetrics.bms.com^
 ||link.instabridge.com^
 ||s.imagica.ai^
+||marketing.syntrio.com^
 ||vpuuzj.schnullireich.de^
 ||analytics.tver.jp^
 ||efglbp.baur.de^
