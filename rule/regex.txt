@@ -1,11 +1,10 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-07-24 00:17:20
+! Last Modified: 2023-07-24 09:19:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pagead*.google.com^
 ||ads*-normal-lq.zijieapi.com^
-||ejghgjhhgadcdchjaada.ru.^
 ~Prebid.js
 ||ad.*.xiaomi.com^
 ||tnc*.zijieapi.com^
