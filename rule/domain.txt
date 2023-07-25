@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-07-25 00:18:57
+! Last Modified: 2023-07-25 09:26:09
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
@@ -12156,6 +12156,7 @@
 ||hasdrs.com^
 ||clearonclick.com^
 ||hwpnocpctu.com^
+||nyrithenrebarro.info^
 ||emerizeculler.com^
 ||abcporntube.com^
 ||clickupto.com^
@@ -20186,7 +20187,6 @@
 ||zhmzsjvkii.com^
 ||sungarnonsane.com^
 ||thursailso.com^
-||nyrithenrebarro.info^
 ||giuntatrub.website^
 ||glurdoat.com^
 ||hfib5s-sdds-248d.xyz^
@@ -26404,11 +26404,24 @@
 ||events.mikescerealshack.co^
 ||dqcztxmu.com^
 ||nctrk.abmail.com.br^
+||bnr.alza.cz^
+||rt.flix360.com^
+||top.skyzone.ro^
+||stats.lestypesdefarine.fr^
+||data.service.aware.com.au^
+||inquisitiveice.com^
 ||pic123.top^
 ||troxa.xyz^
+||a8.volstar.jp^
 ||googleoptimize.com^
+||crta.metro.co.uk^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
+||reconditerespect.com^
+||stringsmile.com^
+||affiliate.couleur-labo.com^
 ||ditaow.cn^
+||sortsummer.com^
+||plausible.pumpkint.com^
 ||d2zh7okxrw0ix.cloudfront.net^
 ||283.laobanfa.com^
 ||evenyw.xyz^
@@ -36013,34 +36026,21 @@ arketing.indianadunes.com^
 ||smetrics.landa.com^
 ||media.pirtek.co.uk^
 ||tr.urfk05g.espmp-agfr.net^
-||bnr.alza.cz^
 ||smetrics.virtual-cosme.net^
-||rt.flix360.com^
-||top.skyzone.ro^
-||stats.lestypesdefarine.fr^
-||data.service.aware.com.au^
 ||a24396.actonservice.com^
 ||vd-test.net.anwalt.de^
 ||images.globalempcomm.visa.com^
 ||profiling.plannja.com^
-||inquisitiveice.com^
 ||smetrics.nerium.kr^
 ||idbkfy.kango-roo.com^
 ||sstats.hellobank.be^
 ||te.witt-international.sk^
-||a8.volstar.jp^
-||crta.metro.co.uk^
 ||smetrics.fancyfeast.com^
 ||tracking.janssenmedicalcloud.me^
-||reconditerespect.com^
-||stringsmile.com^
-||affiliate.couleur-labo.com^
 ||smetrics.vsemirnyjbank.org^
 ||sstats.fishersci.de^
 ||tracking.laurelsprings.com^
-||sortsummer.com^
 ||trk.evtechexpo.com^
-||plausible.pumpkint.com^
 ||securemetrics.athletawell.com^
 ||a12791.actonservice.com^
 ||events.flagship.io^
@@ -41610,6 +41610,7 @@ arketing.indianadunes.com^
 ||smetrics.zehrs.ca^
 ||secure.haag0some.com^
 ||smetrics.kone.com.kh^
+||smetrics.bms.com^
 ||tracking.magnetmail.net^
 ||sync.adap.tv^
 ||counter.reddigital.ru^
@@ -47006,7 +47007,6 @@ adxvip.com
 ||web.info.bonprix.es^
 ||link.invoiceowl.com^
 ||19035955.automated.tajawal.com^
-||smetrics.bms.com^
 ||link.instabridge.com^
 ||s.imagica.ai^
 ||marketing.syntrio.com^
