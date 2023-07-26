@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-07-26 16:17:59
+! Last Modified: 2023-07-27 00:18:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
@@ -1360,7 +1360,10 @@
 ||clicksgear.com^
 ||commercialvalue.org^
 ||beta-news.org^
+||dtscdn.com^
+||apptjmp.com^
 ||capeplannails.com^
+||bestadmax.com^
 ||bruitedhurrahs.com^
 ||allayravage.com^
 ||amrtbbnr.com^
@@ -3850,7 +3853,6 @@
 ||badskies.com^
 ||beneathallowing.com^
 ||appraisalaffable.com^
-||pangolin-sdk-toutiao.com^
 ||anyplaceagency.com^
 ||dvfkpfgqyauuux.com^
 ||ad-scope.com^
@@ -4548,7 +4550,6 @@
 ||chultoux.com^
 ||blockchain-ads.com^
 ||ctsccrxfaqiq.xyz^
-||dm.toutiao.com^
 ||comfortclick.co.uk^
 ||broidensordini.com^
 ||audid-api.taobao.com^
@@ -11020,13 +11021,10 @@
 ||jackpotpresents.com^
 ||padsanz.com^
 ||potshumiliationremnant.com^
-||dtscdn.com^
 ||hungersavingwiring.com^
 ||ja2n2u30a6rgyd.com^
 ||fairoaja.net^
-||apptjmp.com^
 ||mufflerlamia.com^
-||bestadmax.com^
 ||nsfdsa.xyz^
 ||advertlets.com^
 ||bigotpenniless.com^
@@ -12134,8 +12132,10 @@
 ||myomasocager.com^
 ||deleterasks.digital^
 ||iddjpop.com^
+||lehtymns.com^
 ||bro4.biz^
 ||anticipatedlying.com^
+||peateryfewnes.com^
 ||dulillipupan.com^
 ||brumousheaf.com^
 ||aagbvpgc.com^
@@ -20178,8 +20178,6 @@
 ||zugo.com^
 ||reerfdfgourgo.xyz^
 ||uaaftpsy.com^
-||lehtymns.com^
-||peateryfewnes.com^
 ||resetselected.com^
 ||lgwddyouxxwd.com^
 ||nonerr.com^
@@ -23587,10 +23585,13 @@
 ||lauhefoo.com^
 ||readserver.net^
 ||slavizesoften.com^
+||toumnahrafale.com^
 ||outsliggooa.com^
 ||punoocke.com^
 ||mybestnewz.com^
+||tollyeric.com^
 ||ghmofgpoyafnref.xyz^
+||wnrrhcyok.xyz^
 ||moviesflix4k.info^
 ||osmosewatch.top^
 ||oklahi.com^
@@ -26362,30 +26363,20 @@
 ||yuggcd.com^
 ||ashow.pcpop.com^
 ||analytics.mobile.yandex.net^
-||crayfish.thingelstad.com^
 ||5t15.cn^
 ||banht.com^
-||impossibleglue.com^
-||metrics.mypartnersincare.com^
 ||a962m.xyz^
 ||chnuuee.xyz^
 ||opeci.cyou^
 ||pliaoboer.top^
-||stats.buddiy.net^
 ||ifsdg.xyz^
 ||aquvg.com^
 ||jhxcld.xyz^
-||analytics.disneyinternational.com^
 ||fqsokh.xyz^
 ||afp.chinanews.com^
-||a8.o-tayori.com^
-||survey.interquest.com^
-||stats.drsaavedra.mx^
-||analytics.bleacherreport.com^
 ||crleii.xyz^
 ||takingbackjuly.com^
 ||dm.66qw.net^
-||metrics.nestlepurinacareers.com^
 ||tianlans.xyz^
 ||xhflovezyy.asia^
 ||d2v02itv0y9u9t.cloudfront.net^
@@ -32481,13 +32472,10 @@
 ||cloudflare.st^
 ||rapidzebra.io^
 ||erfskhnpter.xyz^
-||toumnahrafale.com^
 ||duzt6rhr7wo8p.cloudfront.net^
 ||a0b22.com^
-||tollyeric.com^
 ||imageshh.com^
 ||beatricenba.com^
-||wnrrhcyok.xyz^
 ||tessratans.com^
 ||szsbiw.xyz^
 ||bl.wavecdn.de^
@@ -36000,17 +35988,27 @@ arketing.indianadunes.com^
 ||tr.digitalacademy.np6.com^
 ||response.leadingauthorities.com^
 ||smetrics.members.co.jp^
+||crayfish.thingelstad.com^
 ||app.payments.53.com^
 ||marketing.juicepharma.com^
+||impossibleglue.com^
+||metrics.mypartnersincare.com^
 ||t.locasun.it^
 ||smetric.owb.com^
 ||sstats.girls1st.com^
 ||a43296.actonservice.com^
 ||tracking.connect.nicklaushealth.org^
 ||kurazb.prisjakt.no^
+||stats.buddiy.net^
 ||m.bumrungrad1378.com^
+||analytics.disneyinternational.com^
 ||app.post.vertafore.com^
+||a8.o-tayori.com^
 ||tr.news.capfun.com^
+||survey.interquest.com^
+||stats.drsaavedra.mx^
+||analytics.bleacherreport.com^
+||metrics.nestlepurinacareers.com^
 ||adebis.gogin.co.jp^
 ||smetrics.tryg.dk^
 ||smetrics.trilliumohp.com^
@@ -41604,6 +41602,8 @@ arketing.indianadunes.com^
 ||smetrics.multikino.pl^
 ||dialogue.mazda.si^
 ||marketing.shadow-soft.com^
+||marketing.talbot-promo.com^
+||secure.gift2pair.com^
 ||pluckypocket.com^
 ||oms.lonelyplanetimages.com^
 ||mixedreading.com^
@@ -47001,8 +47001,6 @@ adxvip.com
 ||track.spothero.com^
 ||mail.tops.co.th^
 ||wa.web.de^
-||marketing.talbot-promo.com^
-||secure.gift2pair.com^
 ||sw88.thewaltdisneycompany.eu^
 ||marketing.genesis-fs.com^
 ||trk.flora.com^
