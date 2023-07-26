@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-07-26 09:21:33
+! Last Modified: 2023-07-26 16:17:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
@@ -1419,8 +1419,8 @@
 ||binomtrcks.site^
 ||callalelel.info^
 ||dodgilyscutula.com^
-||ads3-normal-lq.zijieapi.com^
 ||analyze.lemurbrowser.com^
+||ads3-normal-lq.zijieapi.com^
 ||adcl1ckspr0f1t.com^
 ||aphemicstull.com^
 ||a26662f21f.com^
@@ -1616,6 +1616,7 @@
 ||ayads.co^
 ||comparisonpredatororigin.com^
 ||57debc89a6.com^
+||jstatic.3.cn^
 ||bowmoolog.com^
 ||detinetcallant.com^
 ||1redira.com^
@@ -4215,7 +4216,6 @@
 ||asev.xyz^
 ||ashcdn.com^
 ||cqlupb.com^
-@@||jstatic.3.cn^
 ||eesihighlyrec.xyz^
 ||assistancespectacles.com^
 ||ad-guardian.com^
@@ -4756,8 +4756,8 @@
 ||bendcauslesscauslessnotion.com^
 ||bro1.biz^
 ||callmeocaptain.xyz^
-||saad.ms.zhangyue.net^
 ||o2o.api.xiaomi.com^
+||saad.ms.zhangyue.net^
 ||bittygravely.com.com^
 ||dqhezw.com^
 ||blewtheleledm.one^
@@ -12133,6 +12133,7 @@
 ||adsfac.net^
 ||myomasocager.com^
 ||deleterasks.digital^
+||iddjpop.com^
 ||bro4.biz^
 ||anticipatedlying.com^
 ||dulillipupan.com^
@@ -20177,7 +20178,6 @@
 ||zugo.com^
 ||reerfdfgourgo.xyz^
 ||uaaftpsy.com^
-||iddjpop.com^
 ||lehtymns.com^
 ||peateryfewnes.com^
 ||resetselected.com^
@@ -26356,23 +26356,36 @@
 ||23.89.50.180^
 ||clicks.dealer.com^
 ||dfapvmql-q.global.ssl.fastly.net^
+||metrics.turner.com^
 ||tlprlf.xyz^
+||stats.esecured.net^
 ||yuggcd.com^
 ||ashow.pcpop.com^
+||analytics.mobile.yandex.net^
+||crayfish.thingelstad.com^
 ||5t15.cn^
 ||banht.com^
+||impossibleglue.com^
+||metrics.mypartnersincare.com^
 ||a962m.xyz^
 ||chnuuee.xyz^
 ||opeci.cyou^
 ||pliaoboer.top^
+||stats.buddiy.net^
 ||ifsdg.xyz^
 ||aquvg.com^
 ||jhxcld.xyz^
+||analytics.disneyinternational.com^
 ||fqsokh.xyz^
 ||afp.chinanews.com^
+||a8.o-tayori.com^
+||survey.interquest.com^
+||stats.drsaavedra.mx^
+||analytics.bleacherreport.com^
 ||crleii.xyz^
 ||takingbackjuly.com^
 ||dm.66qw.net^
+||metrics.nestlepurinacareers.com^
 ||tianlans.xyz^
 ||xhflovezyy.asia^
 ||d2v02itv0y9u9t.cloudfront.net^
@@ -35981,36 +35994,23 @@ arketing.indianadunes.com^
 ||tracking.rti-inc.com^
 ||smetrics.hdcymru.co.uk^
 ||save.salary.com.au^
-||metrics.turner.com^
 ||som.athenahealth.com^
 ||lmavci.eloquii.com^
 ||cname1.shakenkan.co.jp^
 ||tr.digitalacademy.np6.com^
-||stats.esecured.net^
 ||response.leadingauthorities.com^
 ||smetrics.members.co.jp^
-||analytics.mobile.yandex.net^
-||crayfish.thingelstad.com^
 ||app.payments.53.com^
 ||marketing.juicepharma.com^
-||impossibleglue.com^
-||metrics.mypartnersincare.com^
 ||t.locasun.it^
 ||smetric.owb.com^
 ||sstats.girls1st.com^
 ||a43296.actonservice.com^
 ||tracking.connect.nicklaushealth.org^
 ||kurazb.prisjakt.no^
-||stats.buddiy.net^
 ||m.bumrungrad1378.com^
-||analytics.disneyinternational.com^
 ||app.post.vertafore.com^
-||a8.o-tayori.com^
 ||tr.news.capfun.com^
-||survey.interquest.com^
-||stats.drsaavedra.mx^
-||analytics.bleacherreport.com^
-||metrics.nestlepurinacareers.com^
 ||adebis.gogin.co.jp^
 ||smetrics.tryg.dk^
 ||smetrics.trilliumohp.com^
@@ -41603,6 +41603,7 @@ arketing.indianadunes.com^
 ||uh.nakanohito.jp^
 ||smetrics.multikino.pl^
 ||dialogue.mazda.si^
+||marketing.shadow-soft.com^
 ||pluckypocket.com^
 ||oms.lonelyplanetimages.com^
 ||mixedreading.com^
@@ -47000,7 +47001,6 @@ adxvip.com
 ||track.spothero.com^
 ||mail.tops.co.th^
 ||wa.web.de^
-||marketing.shadow-soft.com^
 ||marketing.talbot-promo.com^
 ||secure.gift2pair.com^
 ||sw88.thewaltdisneycompany.eu^
