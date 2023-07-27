@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-07-27 16:17:47
+! Last Modified: 2023-07-28 00:18:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -4429,8 +4429,8 @@
 127.0.0.1 www.417720.com
 127.0.0.1 info.wps.cn
 127.0.0.1 api.trwl1.com
-127.0.0.1 bigmobileads.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 bigmobileads.com
 127.0.0.1 wx.sifakaoshi360.com
 127.0.0.1 m.menwww.com
 127.0.0.1 pagead2.googleadservices.com

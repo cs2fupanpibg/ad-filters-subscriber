@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-07-27 16:17:47
+! Last Modified: 2023-07-28 00:18:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
@@ -1422,8 +1422,8 @@
 ||binomtrcks.site^
 ||callalelel.info^
 ||dodgilyscutula.com^
-||ads3-normal-lq.zijieapi.com^
 ||analyze.lemurbrowser.com^
+||ads3-normal-lq.zijieapi.com^
 ||adcl1ckspr0f1t.com^
 ||aphemicstull.com^
 ||a26662f21f.com^
@@ -1619,6 +1619,7 @@
 ||ayads.co^
 ||comparisonpredatororigin.com^
 ||57debc89a6.com^
+||jstatic.3.cn^
 ||bowmoolog.com^
 ||detinetcallant.com^
 ||1redira.com^
@@ -4217,7 +4218,6 @@
 ||asev.xyz^
 ||ashcdn.com^
 ||cqlupb.com^
-@@||jstatic.3.cn^
 ||eesihighlyrec.xyz^
 ||assistancespectacles.com^
 ||ad-guardian.com^
@@ -4757,8 +4757,8 @@
 ||bendcauslesscauslessnotion.com^
 ||bro1.biz^
 ||callmeocaptain.xyz^
-||saad.ms.zhangyue.net^
 ||o2o.api.xiaomi.com^
+||saad.ms.zhangyue.net^
 ||bittygravely.com.com^
 ||dqhezw.com^
 ||blewtheleledm.one^
