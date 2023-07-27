@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2023-07-27 09:10:36
+! Last Modified: 2023-07-27 16:17:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -1673,8 +1673,8 @@
 127.0.0.1 www.55749.net
 127.0.0.1 ggxpj5.com
 127.0.0.1 toutoucao7.com
-127.0.0.1 csktv98.com
 127.0.0.1 entry.baidu.com
+127.0.0.1 csktv98.com
 127.0.0.1 www.kc75.com
 127.0.0.1 wxa.wxs.qq.com
 127.0.0.1 anquan.baidu.com
@@ -4429,8 +4429,8 @@
 127.0.0.1 www.417720.com
 127.0.0.1 info.wps.cn
 127.0.0.1 api.trwl1.com
-127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 bigmobileads.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 wx.sifakaoshi360.com
 127.0.0.1 m.menwww.com
 127.0.0.1 pagead2.googleadservices.com
@@ -4720,11 +4720,6 @@
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 pt.trafficjunky.net
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||pagead*.google.com^
-||ads*-normal-lq.zijieapi.com^
-~Prebid.js
-||ad.*.xiaomi.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bett2you.net^
 ||embargesnibble.website^
@@ -6145,8 +6140,8 @@
 ||binomtrcks.site^
 ||callalelel.info^
 ||dodgilyscutula.com^
-||analyze.lemurbrowser.com^
 ||ads3-normal-lq.zijieapi.com^
+||analyze.lemurbrowser.com^
 ||adcl1ckspr0f1t.com^
 ||aphemicstull.com^
 ||a26662f21f.com^
@@ -6342,7 +6337,6 @@
 ||ayads.co^
 ||comparisonpredatororigin.com^
 ||57debc89a6.com^
-||jstatic.3.cn^
 ||bowmoolog.com^
 ||detinetcallant.com^
 ||1redira.com^
@@ -8941,6 +8935,7 @@
 ||asev.xyz^
 ||ashcdn.com^
 ||cqlupb.com^
+@@||jstatic.3.cn^
 ||eesihighlyrec.xyz^
 ||assistancespectacles.com^
 ||ad-guardian.com^
@@ -9480,8 +9475,8 @@
 ||bendcauslesscauslessnotion.com^
 ||bro1.biz^
 ||callmeocaptain.xyz^
-||o2o.api.xiaomi.com^
 ||saad.ms.zhangyue.net^
+||o2o.api.xiaomi.com^
 ||bittygravely.com.com^
 ||dqhezw.com^
 ||blewtheleledm.one^
@@ -10007,7 +10002,10 @@
 ||cementadodunk.com^
 ||cllkxhssihweca.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
+||pagead*.google.com^
+||ads*-normal-lq.zijieapi.com^
+~Prebid.js
+||ad.*.xiaomi.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||korunabevy.com^
 ||plsrcmp.com^
@@ -16862,6 +16860,7 @@
 ||anticipatedlying.com^
 ||peateryfewnes.com^
 ||dulillipupan.com^
+||lgwddyouxxwd.com^
 ||brumousheaf.com^
 ||aagbvpgc.com^
 ||avwjhap.com^
@@ -24904,7 +24903,6 @@
 ||reerfdfgourgo.xyz^
 ||uaaftpsy.com^
 ||resetselected.com^
-||lgwddyouxxwd.com^
 ||nonerr.com^
 ||originatelamenttedious.com^
 ||smsapiens.com^
@@ -30012,65 +30010,7 @@
 ||mouthinvincibleexpecting.com^
 ||loaglait.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||mcdp-*.outbrain.com^
-||fb_servpub-a.akamaihd.net^
-||analytics-api.dvdfab.
-||centent.streamp1ay.
-||ja*.gamersky.com^
-||static*.365inews.com^
-||ysdm*.ys137.com.cn^
-||adi*.cnool.net^
-||120.27.*.html
-||stats2.*.fdnames.com^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||aff*.kolektiva.net^
-||113.17.188.*.js
-||ax.*.ifeng.com^
-||cas.*.criteo.com^
-||js*.abolezi.com^
-||218.26.217.*.html
-||pixel.archive.
-||qpb*.sohu.com^
-||122.225.103.*.htm
-||asd8900.oss-*.aliyuncs.com^
-||bc.geocities.
-||sax*.sina.
-||bdcpro*.techweb.com.cn^
-||dm*.ppzuowen.com^
-||bd*-ys.km.com^
-||uc*.atobo.com^
-||impservice*.youdao.com^
-||d*.ruiwen.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||servo-report.dvdfab.
-||8*.tianya.cn^
-||ac*.786ip.com^
-||util-*.simply-hentai.com^
-||ya*.dwstatic.com^
-||geotargetly-api-*.com^
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||log-*.previewnetworks.com^
-||ac*.pingguolv.com^
-||at*.doubanio.com^
-||dm*.yxlady.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||collector-*.px-client.net^
-||same*.stockstar.com^
-||stats-*.p2pnow.ru^
-||gcw*.2liang.cn^
-||impservice*.yodao.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
-||tracker.twenga.
-||121.204.246.*.gif
-||sam*.baby-kingdom.com^
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
-||cintent.streanplay.
+||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p004.raffi-hair.com^
 ||d2zbpgxs57sg1k.cloudfront.net^
@@ -31148,28 +31088,41 @@
 ||yuggcd.com^
 ||ashow.pcpop.com^
 ||analytics.mobile.yandex.net^
+||crayfish.thingelstad.com^
 ||5t15.cn^
 ||banht.com^
+||impossibleglue.com^
+||metrics.mypartnersincare.com^
 ||a962m.xyz^
 ||chnuuee.xyz^
 ||opeci.cyou^
 ||pliaoboer.top^
+||stats.buddiy.net^
 ||ifsdg.xyz^
 ||aquvg.com^
 ||jhxcld.xyz^
+||analytics.disneyinternational.com^
 ||fqsokh.xyz^
 ||afp.chinanews.com^
+||a8.o-tayori.com^
+||survey.interquest.com^
+||stats.drsaavedra.mx^
+||analytics.bleacherreport.com^
 ||crleii.xyz^
 ||takingbackjuly.com^
 ||dm.66qw.net^
+||metrics.nestlepurinacareers.com^
 ||tianlans.xyz^
 ||xhflovezyy.asia^
 ||d2v02itv0y9u9t.cloudfront.net^
+||a8cname.nj-e.jp^
 ||dsfhr.xyz^
 ||ps123.online^
 ||p4p.sina.com.cn^
 ||1.66law.cn^
 ||korydwf.cn^
+||fp-cdn.azureedge.net^
+||a8clk.petitjob.jp^
 ||d3frqqoat98cng.cloudfront.net^
 ||dqcztxmu.com^
 ||pic123.top^
@@ -40015,7 +39968,52 @@ ubmcmm.baidustatic.com
 ||seqyirmgh.xyz^
 ||grandmotherunit.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||solutions.|pages.indigovision.com^
+||sax*.sina.
+||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
+||bd*-ys.km.com^
+||uc*.atobo.com^
+||impservice*.youdao.com^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||8*.tianya.cn^
+||ac*.786ip.com^
+||util-*.simply-hentai.com^
+||ya*.dwstatic.com^
+||geotargetly-api-*.com^
+||centent.streamp1ay.
+||d*.xinshipu.com^
+||fpb*.51edu.com^
+||ja*.gamersky.com^
+||static*.365inews.com^
+||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
+||dm*.yxlady.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
+||same*.stockstar.com^
+||120.27.*.html
+||gcw*.2liang.cn^
+||impservice*.yodao.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
+||113.17.188.*.js
+||ax.*.ifeng.com^
+||cas.*.criteo.com^
+||121.204.246.*.gif
+||js*.abolezi.com^
+||218.26.217.*.html
+||sam*.baby-kingdom.com^
+||qpb*.sohu.com^
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
+||122.225.103.*.htm
+||cintent.streanplay.
+||asd8900.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||smetricstur.www.svenskaspel.se^
 ||downeconomywp.advancedtech.com^
@@ -40775,39 +40773,26 @@ arketing.indianadunes.com^
 ||tr.digitalacademy.np6.com^
 ||response.leadingauthorities.com^
 ||smetrics.members.co.jp^
-||crayfish.thingelstad.com^
 ||app.payments.53.com^
 ||marketing.juicepharma.com^
-||impossibleglue.com^
-||metrics.mypartnersincare.com^
 ||t.locasun.it^
 ||smetric.owb.com^
 ||sstats.girls1st.com^
 ||a43296.actonservice.com^
 ||tracking.connect.nicklaushealth.org^
 ||kurazb.prisjakt.no^
-||stats.buddiy.net^
 ||m.bumrungrad1378.com^
-||analytics.disneyinternational.com^
 ||app.post.vertafore.com^
-||a8.o-tayori.com^
 ||tr.news.capfun.com^
-||survey.interquest.com^
-||stats.drsaavedra.mx^
-||analytics.bleacherreport.com^
-||metrics.nestlepurinacareers.com^
 ||adebis.gogin.co.jp^
 ||smetrics.tryg.dk^
 ||smetrics.trilliumohp.com^
 ||tr.interviews-mediametrie.fr^
-||a8cname.nj-e.jp^
 ||smetrics.airmiles.ca^
 ||secure.bali6nora.com^
 ||secure.kick1pore.com^
 ||kzsicw.focus.de^
 ||riovdv.mustit.co.kr^
-||fp-cdn.azureedge.net^
-||a8clk.petitjob.jp^
 ||tracking.online.wisc.edu^
 ||gj.mmstat.com^
 ||a17757.actonservice.com^
@@ -46393,6 +46378,7 @@ arketing.indianadunes.com^
 ||secure.gift2pair.com^
 ||pluckypocket.com^
 ||oms.lonelyplanetimages.com^
+||sw88.thewaltdisneycompany.eu^
 ||mixedreading.com^
 ||a8.hikarimach.net^
 ||steadfastsystem.com^
@@ -50018,14 +50004,19 @@ arketing.indianadunes.com^
 ||a8.uridoki.net^
 ||wvvw.france24.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||onetrust.
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||acookie.*.gif?
-||stats.zone-telechargement.
+||bc.geocities.
+||collector-*.px-client.net^
+||stats-*.p2pnow.ru^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||servo-report.dvdfab.
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||pixel.archive.
+||log-*.previewnetworks.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||redirectdemoqpay.2c2p.com^
 ||web.mapp.tretti.se^
@@ -51797,7 +51788,6 @@ adxvip.com
 ||track.spothero.com^
 ||mail.tops.co.th^
 ||wa.web.de^
-||sw88.thewaltdisneycompany.eu^
 ||marketing.genesis-fs.com^
 ||trk.flora.com^
 ||shtptt.cupshe.com^
@@ -60008,3 +59998,13 @@ statsy.net
 ||ac-ebis.usen.biz^
 ||tr.news.labelleadresse.com^
 ||smetrics.sasktel.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||solutions.|pages.indigovision.com^
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||acookie.*.gif?
+||stats.zone-telechargement.

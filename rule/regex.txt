@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-07-27 09:10:36
+! Last Modified: 2023-07-27 16:17:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pagead*.google.com^
@@ -10,30 +10,6 @@
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||mcdp-*.outbrain.com^
-||fb_servpub-a.akamaihd.net^
-||analytics-api.dvdfab.
-||centent.streamp1ay.
-||ja*.gamersky.com^
-||static*.365inews.com^
-||ysdm*.ys137.com.cn^
-||adi*.cnool.net^
-||120.27.*.html
-||stats2.*.fdnames.com^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||aff*.kolektiva.net^
-||113.17.188.*.js
-||ax.*.ifeng.com^
-||cas.*.criteo.com^
-||js*.abolezi.com^
-||218.26.217.*.html
-||pixel.archive.
-||qpb*.sohu.com^
-||122.225.103.*.htm
-||asd8900.oss-*.aliyuncs.com^
-||bc.geocities.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -41,37 +17,61 @@
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
-||servo-report.dvdfab.
 ||8*.tianya.cn^
 ||ac*.786ip.com^
 ||util-*.simply-hentai.com^
 ||ya*.dwstatic.com^
 ||geotargetly-api-*.com^
+||centent.streamp1ay.
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
-||log-*.previewnetworks.com^
+||ja*.gamersky.com^
+||static*.365inews.com^
+||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||collector-*.px-client.net^
+||adi*.cnool.net^
 ||same*.stockstar.com^
-||stats-*.p2pnow.ru^
+||120.27.*.html
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
 ||ac*.faxingchina.com^
 ||fpb1.chinacar.
-||tracker.twenga.
+||113.17.188.*.js
+||ax.*.ifeng.com^
+||cas.*.criteo.com^
 ||121.204.246.*.gif
+||js*.abolezi.com^
+||218.26.217.*.html
 ||sam*.baby-kingdom.com^
+||qpb*.sohu.com^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||122.225.103.*.htm
 ||cintent.streanplay.
+||asd8900.oss-*.aliyuncs.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||bc.geocities.
+||collector-*.px-client.net^
+||stats-*.p2pnow.ru^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||servo-report.dvdfab.
+||tracker.twenga.
+||fb_servpub-a.akamaihd.net^
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||pixel.archive.
+||log-*.previewnetworks.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||solutions.|pages.indigovision.com^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||stats.zone-annuaire.
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
