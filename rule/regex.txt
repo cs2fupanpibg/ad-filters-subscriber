@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-12 00:16:08
+! Last Modified: 2023-08-12 08:59:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -8,6 +8,7 @@
 ||120.27.*.html
 ||ads*-normal-lq.zijieapi.com^
 ||ads*-normal-lf.zijieapi.com^
+~Prebid.js
 ||p*-local-ads.byteimg.com.queniuso.com^
 ||lf*-orange.byteorge.com^
 ||v*-novelapp.fqnovelvod.com^
@@ -33,7 +34,6 @@
 |piwik.
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
-~Prebid.js
 ||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
@@ -104,6 +104,7 @@ directtrack.*.js
 ||collector-*.px-client.net^
 ||datacollect*.abtasty.com^
 ||batchlogging*-eu.truecaller.com^
+||get-me-wow.
 ||cnt.proporn.
 ||cnt.vivatube.
 ||browser-intake-*-datadoghq.com^
@@ -120,8 +121,6 @@ directtrack.*.js
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||host*.nti.nl^
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
 ||fwwvvsvlvt._tcp.meet.aetv.hb.tt.omtrdc.net^
@@ -133,10 +132,12 @@ directtrack.*.js
 ||fb_servpub-a.akamaihd.net^
 ||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
 ||iezkkotjdy._tcp.meet.arkena.hb.tt.omtrdc.net^
+||util-*.simply-hentai.com^
 ||geotargetly-api-*.com^
 ||gscounters.*.gigya.com^
 ||host*.carl-ras.dk^
 ||events-api*.outfit7.com^
+||centent.streamp1ay.
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||host*.ncoi.nl^
 ||device-metrics-*.amazon.com^
@@ -154,12 +155,14 @@ directtrack.*.js
 ||eihnzkgtax._tcp.meet.aem.hb.tt.omtrdc.net^
 ||events*.cre.ma^
 ||geoloc*.geostats.ovh^
+||cas.*.criteo.com^
 ||dgxndrojym._tcp.abc.hb.tt.omtrdc.net^
 ||enlpqhkicg._tcp.hb.tt.omtrdc.net^
 ||f-log-*.grammarly.io^
 ||geoloc*.geovisite.ovh^
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
+||cintent.streanplay.
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||iptracker-lb-*.amazonaws.com^
@@ -173,11 +176,9 @@ directtrack.*.js
 ||mcdp-*.outbrain.com^
 ||jhhhlbdujq._tcp.hb.tt.omtrdc.net^
 ||mon*-platform-*.tiktokv.com^
-||util-*.simply-hentai.com^
 ||invenio_tracking_*.sgnapps.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
-||centent.streamp1ay.
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||mon-*.tiktokv.com^
 ||log*-applog-*.tiktokv.com^
@@ -193,10 +194,8 @@ directtrack.*.js
 ||logservice-*.platform.dbankcloud.cn^
 ||napoycwsle._tcp.meet.arkena.hb.tt.omtrdc.net^
 ||log*.aliyuncs.com^
-||cas.*.criteo.com^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||log*.byteoversea.com^
-||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pixel*.production-public.tubi.io^
 ||solutions.|pages.indigovision.com^
@@ -210,6 +209,7 @@ directtrack.*.js
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.dvdfab.
+||trk*.vidible.tv^
 ||sock*-goguardian.pusher.com^
 ||track.zalando.
 ||ojsiqgmgoo._tcp.meet.arkena.hb.tt.omtrdc.net^
@@ -222,17 +222,15 @@ directtrack.*.js
 ||pixelapi-*.cs.mysamba.tv^
 ||t.delfi.
 ||rum*.cdnvideo.ru^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||sgtm.fashionunited.
 ||track.*.roku.com^
 ||stat.*.v-56.com^
-||stats-*.p2pnow.ru^
 ||report*.appmetrica.webvisor.com^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
-||stats2.*.fdnames.com^
 ||stat.tiara.
 ||stats.zone-telechargement.
-||tracker.twenga.
 ||ojyutmxesr.mail._domainkey.hb.tt.omtrdc.net^
 ||rtlog*.tiktokv.com^
 ||stats.zone-annuaire.
@@ -244,17 +242,18 @@ directtrack.*.js
 ||stats*.videonow.ru^
 ||track.tiara.
 ||pxl-*.ozone.ru^
+||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
+||stats-*.p2pnow.ru^
 ||zzdewpyihb._tcp.aarp.hb.tt.omtrdc.net^
 ||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
+||stats2.*.fdnames.com^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
-||trk*.vidible.tv^
+||tracker.twenga.
 ||xlog*-*.tiktokv.com^
 ||onetrust.
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||wa.gmx.
-||ubacollect-*.cloud.dbankcloud.cn^
-||tw*.netcore.co.in^
 ||ynovrhljia._tcp.aem.hb.tt.omtrdc.net^
