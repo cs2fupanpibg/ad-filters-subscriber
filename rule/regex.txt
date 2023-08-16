@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-16 00:17:54
+! Last Modified: 2023-08-16 09:01:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -28,25 +28,6 @@ directtrack.*.js
 ||218.26.217.*.html
 ||122.225.103.*.htm
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||adservice.google.
-||a*.smlog.co.kr^
-||analytics-api.dvdfab.
-||api*.amplitude.com^
-||app-analytics-*.snapchat.com^
-||ja*.gamersky.com^
-||static*.365inews.com^
-||ysdm*.ys137.com.cn^
-||analytics-rollout-*.amazonaws.com^
-||appanalysis*.banggood.com^
-||adi*.cnool.net^
-||aff*.kolektiva.net^
-||ax.*.ifeng.com^
-||js*.abolezi.com^
-||qpb*.sohu.com^
-||analytics*.clickdimensions.com^
-||asd8900.oss-*.aliyuncs.com^
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
 ||sax*.sina.
@@ -54,33 +35,53 @@ directtrack.*.js
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
 ||8*.tianya.cn^
 ||ac*.786ip.com^
-||analytics*.carambo.la^
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
+||ja*.gamersky.com^
+||static*.365inews.com^
+||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
+||adi*.cnool.net^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||same*.stockstar.com^
-||adcounter*.uptolike.ru^
-||ad*.ettoday.net^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ads-dmp-collect.*.karrotmarket.com^
 ||ac*.faxingchina.com^
 ||fpb1.chinacar.
-||analytics*.prezly.com^
+||ax.*.ifeng.com^
 ||acookie.*.gif?
+||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
-||analyzer*.fc2.com^
+||qpb*.sohu.com^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||asd8900.oss-*.aliyuncs.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||adcounter*.uptolike.ru^
+||ad*.ettoday.net^
+||ads-dmp-collect.*.karrotmarket.com^
+||adservice.google.
+||a*.smlog.co.kr^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||analytics*.carambo.la^
+||api*.amplitude.com^
+||app-analytics-*.snapchat.com^
+||analytics*.prezly.com^
+||analyzer*.fc2.com^
+||analytics*.clickdimensions.com^
 ||analytics.*.sky.com^
+||analytics-rollout-*.amazonaws.com^
+||appanalysis*.banggood.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bc.geocities.
 ||cnt.yeptube.
