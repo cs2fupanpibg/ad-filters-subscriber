@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-20 09:04:01
+! Last Modified: 2023-08-20 16:15:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -193,14 +193,17 @@ directtrack.*.js
 ||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
+||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
 ||tracking.olx.
 ||sdk.fra-*.braze.eu^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
+||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||servo-report.dvdfab.
 ||trk*.vidible.tv^
+||xlog*-*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
 ||track.zalando.
 ||report.*.qq.com^
@@ -215,6 +218,7 @@ directtrack.*.js
 ||sgtm.fashionunited.
 ||track.*.roku.com^
 ||stat.*.v-56.com^
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||stats-*.p2pnow.ru^
 ||report*.appmetrica.webvisor.com^
 ||telemetry*.transcend.io^
@@ -222,7 +226,6 @@ directtrack.*.js
 ||stats2.*.fdnames.com^
 ||stat.tiara.
 ||stats.zone-telechargement.
-||tracker.twenga.
 ||rtlog*.tiktokv.com^
 ||stats.zone-annuaire.
 ||ssp*.rtb.beeline.ru^
@@ -233,10 +236,7 @@ directtrack.*.js
 ||pxl-*.ozone.ru^
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||xlog*-*.tiktokv.com^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||onetrust.
-||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
-||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||ynovrhljia._tcp.aem.hb.tt.omtrdc.net^
+||tracker.twenga.
