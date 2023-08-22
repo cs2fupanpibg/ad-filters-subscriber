@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-08-22 16:17:58
+! Last Modified: 2023-08-23 00:18:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -125,8 +125,8 @@
 127.0.0.1 ad.adriver.ru
 127.0.0.1 tracking.ad-survey.com
 127.0.0.1 f0.mtqys.com
-127.0.0.1 adlog.molitv.cn
 127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 adlog.molitv.cn
 127.0.0.1 lutelu.com
 127.0.0.1 ads.adadapted.com
 127.0.0.1 www.sexy-more.com
