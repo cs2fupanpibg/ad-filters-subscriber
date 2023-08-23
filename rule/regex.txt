@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-23 00:18:04
+! Last Modified: 2023-08-23 09:01:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -29,7 +29,6 @@
 ||dm*.ppzuowen.com^
 ||sax*.sina.
 ||bd*-ys.km.com^
-||uc*.atobo.com^
 ||impservice*.youdao.com^
 |piwik.
 ||d*.ruiwen.com^
@@ -39,17 +38,14 @@
 ||bdlm*.hc360.com^
 ||8*.tianya.cn^
 ||ac*.786ip.com^
-||ya*.dwstatic.com^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
-||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||adi*.cnool.net^
-||zhizhizhizhi.oss-*.aliyuncs.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 directtrack.*.js
@@ -62,8 +58,6 @@ directtrack.*.js
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||adcounter*.uptolike.ru^
@@ -190,7 +184,6 @@ directtrack.*.js
 ||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||solutions.|pages.indigovision.com^
-||tracking.*.miui.com^
 ||t*.zcvh.net^
 ||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
 ||stats*.credit-cooperatif.coop^
@@ -199,38 +192,45 @@ directtrack.*.js
 ||sdk.fra-*.braze.eu^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
-||servo-report.dvdfab.
-||trk*.vidible.tv^
-||sock*-goguardian.pusher.com^
 ||track.zalando.
 ||report.*.qq.com^
 ||seller-log-collector.shopee.
 ||px*.mediahills.ru^
 ||sta.zone-telechargement.
-||tracking-*.trnox.com^
 ||st-*.dynamicyield.com^
 ||t.delfi.
 ||rum*.cdnvideo.ru^
+||ysdm*.ys137.com.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||sgtm.fashionunited.
 ||track.*.roku.com^
-||stat.*.v-56.com^
-||stats-*.p2pnow.ru^
-||report*.appmetrica.webvisor.com^
 ||telemetry*.transcend.io^
-||tnc16-*.byteoversea.com^
 ||stats2.*.fdnames.com^
-||stat.tiara.
 ||stats.zone-telechargement.
-||tracker.twenga.
-||rtlog*.tiktokv.com^
-||stats.zone-annuaire.
 ||ssp*.rtb.beeline.ru^
-||stat*.1internet.tv^
 ||stats*.videonow.ru^
 ||wa.gmx.
 ||track.tiara.
 ||pxl-*.ozone.ru^
+||tracking.*.miui.com^
+||uc*.atobo.com^
+||servo-report.dvdfab.
+||trk*.vidible.tv^
+||sock*-goguardian.pusher.com^
+||ya*.dwstatic.com^
+||tracking-*.trnox.com^
+||stat.*.v-56.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||stats-*.p2pnow.ru^
+||report*.appmetrica.webvisor.com^
+||tnc16-*.byteoversea.com^
+||stat.tiara.
+||tracker.twenga.
+||rtlog*.tiktokv.com^
+||stats.zone-annuaire.
+||stat*.1internet.tv^
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||xlog*-*.tiktokv.com^
