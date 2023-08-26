@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-26 16:16:09
+! Last Modified: 2023-08-27 00:16:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -190,53 +190,53 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*.byteoversea.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||solutions.|pages.indigovision.com^
-||tracking.*.miui.com^
-||t*.zcvh.net^
-||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
-||stats*.credit-cooperatif.coop^
-||tracking*.euroads.fi^
-||tracking.olx.
+||stat.*.v-56.com^
+||report*.appmetrica.webvisor.com^
 ||sdk.fra-*.braze.eu^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.dvdfab.
-||trk*.vidible.tv^
+||stat.tiara.
+||rtlog*.tiktokv.com^
 ||sock*-goguardian.pusher.com^
-||track.zalando.
 ||report.*.qq.com^
 ||seller-log-collector.shopee.
 ||px*.mediahills.ru^
+||ssp*.rtb.beeline.ru^
 ||sta.zone-telechargement.
-||tracking-*.trnox.com^
+||stat*.1internet.tv^
 ||st-*.dynamicyield.com^
-||t.delfi.
+||pxl-*.ozone.ru^
 ||rum*.cdnvideo.ru^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||sgtm.fashionunited.
-||stat.*.v-56.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||tracking.*.miui.com^
+||t*.zcvh.net^
+||vwymdcjirv._tcp.aarp.hb.tt.omtrdc.net^
+||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
+||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
+||tracking.olx.
+||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
+||trk*.vidible.tv^
+||xlog*-*.tiktokv.com^
+||track.zalando.
+||tracking-*.trnox.com^
+||t.delfi.
+||ubacollect-*.cloud.dbankcloud.cn^
+||ynovrhljia._tcp.aem.hb.tt.omtrdc.net^
+||track.*.roku.com^
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||stats-*.p2pnow.ru^
-||report*.appmetrica.webvisor.com^
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
 ||stats2.*.fdnames.com^
-||stat.tiara.
 ||stats.zone-telechargement.
 ||tracker.twenga.
-||rtlog*.tiktokv.com^
 ||stats.zone-annuaire.
-||ssp*.rtb.beeline.ru^
-||stat*.1internet.tv^
+||onetrust.
+||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||stats*.videonow.ru^
 ||wa.gmx.
 ||track.tiara.
-||pxl-*.ozone.ru^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||xlog*-*.tiktokv.com^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||onetrust.
-||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
-||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
-||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||tw*.netcore.co.in^
-||ynovrhljia._tcp.aem.hb.tt.omtrdc.net^
-||track.*.roku.com^
