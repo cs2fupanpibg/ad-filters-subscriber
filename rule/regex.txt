@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-08-31 16:18:37
+! Last Modified: 2023-09-01 00:18:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -165,8 +165,10 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mcdp-*.outbrain.com^
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||mon*-platform-*.tiktokv.com^
+||util-*.simply-hentai.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
+||centent.streamp1ay.
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -182,9 +184,11 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||pixel-*.rubiconproject.com^
 ||log*.aliyuncs.com^
 ||piano_log.kingsoft.jp^
+||cas.*.criteo.com^
 ||pixel.archive.
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||log*.byteoversea.com^
+||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||solutions.|pages.indigovision.com^
 ||tracking.*.miui.com^
@@ -199,11 +203,9 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||sock*-goguardian.pusher.com^
-||util-*.simply-hentai.com^
 ||track.zalando.
 ||report.*.qq.com^
 ||seller-log-collector.shopee.
-||centent.streamp1ay.
 ||px*.mediahills.ru^
 ||sta.zone-telechargement.
 ||tracking-*.trnox.com^
@@ -224,14 +226,12 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||tracker.twenga.
 ||rtlog*.tiktokv.com^
 ||stats.zone-annuaire.
-||cas.*.criteo.com^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
 ||stats*.videonow.ru^
 ||wa.gmx.
 ||track.tiara.
 ||pxl-*.ozone.ru^
-||cintent.streanplay.
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||xlog*-*.tiktokv.com^
