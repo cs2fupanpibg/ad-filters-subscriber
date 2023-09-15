@@ -1,31 +1,27 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-15 00:19:09
+! Last Modified: 2023-09-15 09:04:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
-|piwik.
-||ads*-normal-lf.zijieapi.com^
-||lf*-orange.byteorge.com^
-728x90.jpg|
-||p*-ad-sign.byteimg.com^
-||v*-ad.video.yximgs.com^
 ||p*-ad.byteimg.com^
 ||120.27.*.html
 ||ads*-normal-lq.zijieapi.com^
-directtrack.*.js
+||ads*-normal-lf.zijieapi.com^
 ||p*-local-ads.byteimg.com.queniuso.com^
+||lf*-orange.byteorge.com^
 ||p*-webcast-sign.douyinpic.com^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||v*-novelapp.fqnovelvod.com^
 ||p*-local-ads.byteimg.com^
+728x90.jpg|
 ||ads*-normal.zijieapi.com^
 ||113.17.188.*.js
 ||p*-ad-aweme.byteimg.com^
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||p*-ad-sign.byteimg.com^
 ||sf*-ttcdn-tos.pstatp.com^
 ||121.204.246.*.gif
 ||ads*-normal-hl.zijieapi.com^
+||v*-ad.video.yximgs.com^
 ||218.26.217.*.html
 ||122.225.103.*.htm
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
@@ -35,6 +31,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||bd*-ys.km.com^
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
+|piwik.
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
@@ -57,10 +54,13 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||same*.stockstar.com^
 ||tupian888.*.bcebos.com^
 ||gcw*.2liang.cn^
+directtrack.*.js
 ||impservice*.yodao.com^
 ||ac*.faxingchina.com^
 ||fpb1.chinacar.
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||ax.*.ifeng.com^
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||acookie.*.gif?
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
@@ -123,8 +123,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||host*.nti.nl^
 ||iptracker-lb-*.amazonaws.com^
 ||grs.dbankcloud.
@@ -165,10 +163,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mcdp-*.outbrain.com^
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||mon*-platform-*.tiktokv.com^
-||util-*.simply-hentai.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
-||centent.streamp1ay.
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||mon-*.tiktokv.com^
 ||log*-applog-*.tiktokv.com^
@@ -181,10 +177,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*-misc-lf.amemv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||log*.aliyuncs.com^
-||cas.*.criteo.com^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||log*.byteoversea.com^
-||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pixel*.production-public.tubi.io^
 ||solutions.|pages.indigovision.com^
@@ -234,7 +228,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||stats.zone-telechargement.
 ||tracker.twenga.
 ||stats.zone-annuaire.
-||onetrust.
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||ssp*.rtb.beeline.ru^
 ||stat*.1internet.tv^
@@ -242,3 +235,11 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||wa.gmx.
 ||track.tiara.
 ||tw*.netcore.co.in^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||onetrust.
+||cas.*.criteo.com^
+||cintent.streanplay.
