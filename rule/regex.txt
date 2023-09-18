@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-18 00:16:56
+! Last Modified: 2023-09-18 09:03:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -89,7 +89,6 @@
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||events*.cre.ma^
-||ax.*.ifeng.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||ssp*.rtb.beeline.ru^
 ||f-log-*.grammarly.io^
@@ -99,9 +98,7 @@
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
 ||servo-report.dvdfab.
-||ac*.786ip.com^
 ||sock*-goguardian.pusher.com^
-||ac*.pingguolv.com^
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||report*.appmetrica.webvisor.com^
 ||stat.tiara.
@@ -109,7 +106,6 @@
 ||rtlog*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
-||121.204.246.*.gif
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||analyzer*.fc2.com^
@@ -206,6 +202,7 @@ directtrack.*.js
 |piwik.
 ||tracking*.euroads.fi^
 ||device-metrics-us*.amazon.com^
+||ac*.786ip.com^
 ||track.zalando.
 ||geotargetly-api-*.com^
 ||host*.carl-ras.dk^
@@ -213,6 +210,7 @@ directtrack.*.js
 ||mcs-va-*.tiktokv.com^
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||sta.zone-telechargement.
+||ac*.pingguolv.com^
 ||maas-*.phunware.com^
 ||collector-*.px-client.net^
 ||stats-*.p2pnow.ru^
@@ -220,8 +218,10 @@ directtrack.*.js
 ||eum*.instana.io^
 ||host*.rvshare.com^
 ||stats.zone-telechargement.
+||ax.*.ifeng.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||pixel-*.rubiconproject.com^
+||121.204.246.*.gif
 ||piano_log.kingsoft.jp^
 ||stat*.1internet.tv^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
@@ -229,13 +229,12 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||pxl-*.ozone.ru^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pixel*.production-public.tubi.io^
+||get-me-wow.
 ||pixel.archive.
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||rum*.a.trbcdn.net^
 ||counter*-yadro*-ru.unblocked.lol^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||util-*.simply-hentai.com^
 ||centent.streamp1ay.
