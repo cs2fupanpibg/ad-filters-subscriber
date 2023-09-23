@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-23 00:18:44
+! Last Modified: 2023-09-23 09:01:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -86,8 +86,8 @@
 ||cnt.tubeon.
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||stats*.videonow.ru^
-||qpb*.sohu.com^
 ||flurry.agentportal-*.yahoodns.net^
+||qpb*.sohu.com^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||bi-eventtracker-*.amazonaws.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
@@ -227,6 +227,7 @@ directtrack.*.js
 ||events*.cre.ma^
 ||collect-elb-*.amazonaws.com^
 ||c*hit.zerkalo.io^
+||px*.mediahills.ru^
 ||wa.gmx.
 ||log-*.previewnetworks.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
@@ -236,7 +237,6 @@ directtrack.*.js
 ||bc.geocities.
 ||geoloc*.geostats.ovh^
 ||onetrust.
-||px*.mediahills.ru^
 ||piano_log.kingsoft.jp^
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||analyzer*.fc2.com^
