@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-24 16:16:18
+! Last Modified: 2023-09-25 00:16:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -44,8 +44,8 @@
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
-||liveme-sensors-collect2-*.amazonaws.com^
 ||ad*.on.cc^
+||liveme-sensors-collect2-*.amazonaws.com^
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
@@ -62,8 +62,8 @@
 ||dm*.ppzuowen.com^
 ||uc*.atobo.com^
 ||bdlm*.hc360.com^
-||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
 ||8*.tianya.cn^
+||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
 ||ac*.786ip.com^
 ||geotargetly-api-*.com^
 ||collector-*.tvsquared.com^
@@ -85,10 +85,10 @@
 ||fpb1.chinacar.
 ||logservice-*.platform.dbankcloud.cn^
 ||121.204.246.*.gif
-||stat*.1internet.tv^
 ||acookie.*.gif?
-||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
+||stat*.1internet.tv^
 ||vns86.oss-*.aliyuncs.com^
+||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||iptracker-lb-*.amazonaws.com^
