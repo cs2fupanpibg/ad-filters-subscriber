@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-26 16:19:01
+! Last Modified: 2023-09-27 00:19:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -106,8 +106,6 @@
 ||log*.byteoversea.com^
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||iptracker-lb-*.amazonaws.com^
 ||stat.*.v-56.com^
 ||datacollect*.abtasty.com^
@@ -132,6 +130,8 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||analytics.*.sky.com^
 ||appanalysis*.banggood.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bc.geocities.
 ||cnt.yeptube.
@@ -162,11 +162,11 @@
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||sensorsdata*.read.duokan.com^
 ||a*.smlog.co.kr^
-||util-*.simply-hentai.com^
 ||track.zalando.
+||util-*.simply-hentai.com^
 ||report.*.qq.com^
-||centent.streamp1ay.
 ||events-api*.outfit7.com^
+||centent.streamp1ay.
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||sta.zone-telechargement.
 ||host*.ncoi.nl^
