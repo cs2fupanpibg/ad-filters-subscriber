@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-28 00:19:07
+! Last Modified: 2023-09-28 09:03:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -47,20 +47,20 @@
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||sdk.fra-*.braze.eu^
-||dn*.ixinwei.com^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
+||dn*.ixinwei.com^
 ||8*.tianya.cn^
 ||ac*.786ip.com^
 ||analytics*.carambo.la^
 ||mon*-platform-*.tiktokv.com^
-||ad*.on.cc^
 ||mcs-va-*.tiktokv.com^
+||ad*.on.cc^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||mon-*.tiktokv.com^
 ||mail._domainkey.hb.tt.omtrdc.net^
-||static*.365inews.com^
 ||t.delfi.
+||static*.365inews.com^
 ||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||adi*.cnool.net^
@@ -74,16 +74,16 @@
 ||fpb1.chinacar.
 ||host*.polaroid.com^
 ||ax.*.ifeng.com^
-||121.204.246.*.gif
 ||datacollector-*.dt.dbankcloud.cn^
+||121.204.246.*.gif
+||button.blogs.yandex.
 ||js*.abolezi.com^
 ||acookie.*.gif?
-||button.blogs.yandex.
-||218.26.217.*.html
 ||geoloc*.geovisite.ovh^
+||218.26.217.*.html
+||flurry.agentportal-*.yahoodns.net^
 ||qpb*.sohu.com^
 ||union*.365inews.com^
-||flurry.agentportal-*.yahoodns.net^
 ||122.225.103.*.htm
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
