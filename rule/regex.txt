@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-09-30 16:16:33
+! Last Modified: 2023-10-01 00:16:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -43,48 +43,48 @@
 ||uc*.atobo.com^
 ||collect-v*.51.la^
 ||mapi-log.qoo*.jp^
-||d*.ruiwen.com^
 ||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
 ||dn*.ixinwei.com^
 ||sensorsdata*.read.duokan.com^
 ||bdlm*.hc360.com^
-||8*.tianya.cn^
 ||idfzvjhwcn._tcp.meet.abcotv.hb.tt.omtrdc.net^
+||8*.tianya.cn^
 728x90.jpg|
 ||sock*-goguardian.pusher.com^
 ||report.*.qq.com^
-||ad*.on.cc^
 ||collector-*.tvsquared.com^
+||ad*.on.cc^
 ||fpb*.51edu.com^
 ||d*.xinshipu.com^
-||ja*.gamersky.com^
 ||t.delfi.
+||ja*.gamersky.com^
 ||rum*.cdnvideo.ru^
 ||ac*.pingguolv.com^
-||at*.doubanio.com^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
+||at*.doubanio.com^
 ||dm*.yxlady.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
 ||stat.*.v-56.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
 ||same*.stockstar.com^
-||120.27.*.html
 ||log-collector.shopee.
-||gcw*.2liang.cn^
+||120.27.*.html
 ||cnt.proporn.
-||ac*.faxingchina.com^
+||gcw*.2liang.cn^
 ||cnt.tubeon.
+||ac*.faxingchina.com^
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||113.17.188.*.js
-||121.204.246.*.gif
 ||piano_log.kingsoft.jp^
 ||datacollector-*.dt.dbankcloud.cn^
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
+||121.204.246.*.gif
 ||acookie.*.gif?
 ||sam*.baby-kingdom.com^
 ||wa.gmx.
 ||qpb*.sohu.com^
-||122.225.103.*.htm
 ||pxl-*.ozone.ru^
+||122.225.103.*.htm
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
@@ -110,6 +110,8 @@
 ||track.tiara.
 ||analytics*.clickdimensions.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||host*.polaroid.com^
 ||rtlog*.tiktokv.com^
 ||trk*.vidible.tv^
@@ -122,8 +124,6 @@ directtrack.*.js
 ||sgtm.fashionunited.
 ||batchlogging*-noneu.truecaller.com^
 ||appanalysis*.banggood.com^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||maas-*.phunware.com^
 ||cnt.yeptube.
@@ -172,9 +172,9 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||cas.*.criteo.com^
 ||ssp*.rtb.beeline.ru^
 ||geoloc*.geovisite.ovh^
+||cintent.streanplay.
 ||tw*.netcore.co.in^
 ||analytics.*.sky.com^
-||cintent.streanplay.
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bc.geocities.
