@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-02 00:16:48
+! Last Modified: 2023-10-02 09:04:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -38,23 +38,50 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||maas-*.phunware.com^
 ||bc.geocities.
+||sax*.sina.
 ||iptracker-lb-*.amazonaws.com^
 ||host*.nti.nl^
-||datacollect*.abtasty.com^
-||batchlogging*-eu.truecaller.com^
+||bd*-ys.km.com^
 ||clog*.yuanfudao.com^
+||impservice*.youdao.com^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
+||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
+||8*.tianya.cn^
+728x90.jpg|
+||ya*.dwstatic.com^
+||collector-*.tvsquared.com^
+||ja*.gamersky.com^
+||static*.365inews.com^
+||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
+||maas-*.phunware.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||datacollect*.abtasty.com^
+||same*.stockstar.com^
+||tupian888.*.bcebos.com^
+||batchlogging*-eu.truecaller.com^
+||120.27.*.html
+||gcw*.2liang.cn^
+||impservice*.yodao.com^
 ||log*-misc-lf.amemv.com^
 ||host*.rvshare.com^
-||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
 ||stats2.*.fdnames.com^
+||ac*.faxingchina.com^
 ||cnt.tubeon.
 ||host*.polaroid.com^
-||collector-*.tvsquared.com^
+||ax.*.ifeng.com^
+||121.204.246.*.gif
+||acookie.*.gif?
+||js*.abolezi.com^
 ||stat*.1internet.tv^
+||sam*.baby-kingdom.com^
 ||f-log-*.grammarly.io^
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
 ||tw*.netcore.co.in^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pixel*.production-public.tubi.io^
@@ -75,8 +102,6 @@
 ||analyzer*.fc2.com^
 ||t.delfi.
 ||sgtm.fashionunited.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||mobileanalytics.*.amazonaws.com^
 ||t*.zcvh.net^
@@ -114,6 +139,8 @@
 ||bi-eventtracker-*.amazonaws.com^
 ||analytics.*.sky.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.winporn.
 ||solutions.|pages.indigovision.com^
 |piwik.
@@ -123,63 +150,40 @@ directtrack.*.js
 ||flurry.agentportal.*.yahoodns.net^
 ||xlog*-*.tiktokv.com^
 ||events*.cre.ma^
-||util-*.simply-hentai.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||geoloc*.geostats.ovh^
 ||analytics*.prezly.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||centent.streamp1ay.
 ||log*.aliyuncs.com^
-||cas.*.criteo.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
-||cintent.streanplay.
 ||analytics-rollout-*.amazonaws.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||sax*.sina.
-||bd*-ys.km.com^
-||impservice*.youdao.com^
 ||stats*.credit-cooperatif.coop^
 ||log*.vietnamplus.vn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||8*.tianya.cn^
 ||analytics-api.dvdfab.
-728x90.jpg|
 ||app-analytics-*.snapchat.com^
-||ya*.dwstatic.com^
+||util-*.simply-hentai.com^
 ||collector-*.px-cloud.net^
 ||mcs-va-*.tiktokv.com^
 ||seller-log-collector.shopee.
+||centent.streamp1ay.
 ||px*.mediahills.ru^
+||142.91.159.
 ||mon-*.tiktokv.com^
-||ja*.gamersky.com^
-||static*.365inews.com^
-||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
+||23.109.87.
 ||appanalysis*.banggood.com^
-||at*.doubanio.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||same*.stockstar.com^
-||tupian888.*.bcebos.com^
+||23.109.82.
 ||report*.appmetrica.webvisor.com^
 ||geoloc*.geo20120530.com^
-||120.27.*.html
 ||telemetry*.transcend.io^
-||gcw*.2liang.cn^
-||impservice*.yodao.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||stats.zone-telechargement.
-||ac*.faxingchina.com^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||acookie.*.gif?
-||js*.abolezi.com^
+||158.247.208.
+||cas.*.criteo.com^
 ||collector.xhamster*.
-||sam*.baby-kingdom.com^
 ||track.tiara.
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
+||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
 ||tracking.*.miui.com^
