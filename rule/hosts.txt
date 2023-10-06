@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-10-06 00:19:51
+! Last Modified: 2023-10-06 09:04:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -269,8 +269,8 @@
 127.0.0.1 get.sessions.exchange
 127.0.0.1 vip.youzu.com
 127.0.0.1 www.379707.com
-127.0.0.1 baiduyubaidu.com
 127.0.0.1 m.adsymptotic.com
+127.0.0.1 baiduyubaidu.com
 127.0.0.1 xpj23222.com
 127.0.0.1 casterist.info
 127.0.0.1 www.fastclick.net
@@ -768,8 +768,8 @@
 127.0.0.1 s65.cnzz.com
 127.0.0.1 watchkbsmbcsbs.j8inn1zektoe.com
 127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 bttrack.com
 127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 bttrack.com
 127.0.0.1 brort.stsdk.vivo.com.cn
 127.0.0.1 dtscout.rtb.adx1.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -1889,8 +1889,8 @@
 127.0.0.1 m.ybstwl.com
 127.0.0.1 e.tf.360.cn
 127.0.0.1 gorgon.youdao.com
-127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 mobads-logs.baidu.com
+127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 count43.51yes.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 eversely.com
@@ -2426,8 +2426,8 @@
 127.0.0.1 qihoo.cn
 127.0.0.1 sale.aliexpress.com
 127.0.0.1 xpjylc9977.com
-127.0.0.1 hg89038.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 hg89038.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -2707,8 +2707,8 @@
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 c2.l.qq.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
-127.0.0.1 vt.ipinyou.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 vt.ipinyou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 www.163ren.com
 127.0.0.1 d.cntv.cn
@@ -4298,8 +4298,8 @@
 127.0.0.1 xpj11.net
 127.0.0.1 logs.amap.com
 127.0.0.1 static.reallesbianexposed.com
-127.0.0.1 mgr.aduu.cn
 127.0.0.1 openrcv.baidu.com
+127.0.0.1 mgr.aduu.cn
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 g1.163.com
 127.0.0.1 l-ring.msedge.net
