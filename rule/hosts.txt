@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-10-06 09:04:11
+! Last Modified: 2023-10-06 16:18:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -1024,8 +1024,8 @@
 127.0.0.1 hzs10.cnzz.com
 127.0.0.1 www.vns8989.com
 127.0.0.1 c.kuaiduizuoye.com
-127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 commercial.shouji.360.cn
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 tags.bluekai.com
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 yo234.com
@@ -1539,8 +1539,8 @@
 127.0.0.1 www.44y36.com
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 m.fengwanwl.com
-127.0.0.1 bb55268.com
 127.0.0.1 g1.tagtic.cn
+127.0.0.1 bb55268.com
 127.0.0.1 buyu9943.com
 127.0.0.1 api.youngle.tech
 127.0.0.1 click.uve.mobile.sina.cn
@@ -3905,8 +3905,8 @@
 127.0.0.1 360anquantou.cn
 127.0.0.1 wz.37wan.com
 127.0.0.1 ad.where.com
-127.0.0.1 ncz.yeepay.com
 127.0.0.1 s6.cnzz.com
+127.0.0.1 ncz.yeepay.com
 127.0.0.1 www.365vip00.co
 127.0.0.1 media.mydas.mobi
 127.0.0.1 sc-static.net
@@ -4419,8 +4419,8 @@
 127.0.0.1 www.417720.com
 127.0.0.1 info.wps.cn
 127.0.0.1 api.trwl1.com
-127.0.0.1 bigmobileads.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 bigmobileads.com
 127.0.0.1 wx.sifakaoshi360.com
 127.0.0.1 m.menwww.com
 127.0.0.1 pagead2.googleadservices.com
