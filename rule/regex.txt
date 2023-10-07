@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-07 00:19:22
+! Last Modified: 2023-10-07 09:03:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -49,31 +49,20 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||pixel*.production-public.tubi.io^
 ||dm*.ppzuowen.com^
-||dm*.yxlady.com^
 ||bdcpro*.techweb.com.cn^
 ||bd*-ys.km.com^
-||same*.stockstar.com^
-||tupian888.*.bcebos.com^
-||impservice*.youdao.com^
-||gcw*.2liang.cn^
-||bdlm*.hc360.com^
-||fpb1.chinacar.
-||ac*.faxingchina.com^
-728x90.jpg|
-||121.204.246.*.gif
-||static*.365inews.com^
-||qpb*.sohu.com^
-||vns86.oss-*.aliyuncs.com^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||pixel*.production-public.tubi.io^
 ||cnt.hd21.
 ||grs.dbankcloud.
+||impservice*.youdao.com^
 ||tracking*.euroads.fi^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
 ||rum*.a.trbcdn.net^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
+728x90.jpg|
 ||api*.amplitude.com^
 ||collect-elb-*.amazonaws.com^
 ||host*.carl-ras.dk^
@@ -82,20 +71,28 @@
 ||pixelapi-*.cs.mysamba.tv^
 ||log*-applog-*.tiktokv.com^
 ||log-*.previewnetworks.com^
+||static*.365inews.com^
 ||sgtm.fashionunited.
+||dm*.yxlady.com^
 ||hstats*.hepsiburada.com^
+||same*.stockstar.com^
+||tupian888.*.bcebos.com^
 ||tnc16-*.byteoversea.com^
+||gcw*.2liang.cn^
 ||browser-intake-*-datadoghq.com^
 ||log*-misc-lf.amemv.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||tracker.twenga.
+||fpb1.chinacar.
+||ac*.faxingchina.com^
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
+||121.204.246.*.gif
 ||button.blogs.yandex.
 ||analyzer*.fc2.com^
+||qpb*.sohu.com^
+||vns86.oss-*.aliyuncs.com^
 ||imp-*.jampp.com^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
 ||bc.geocities.
@@ -117,35 +114,49 @@
 ||tracking-*.trnox.com^
 ||t.delfi.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||158.247.208.
+||util-*.simply-hentai.com^
+||geotargetly-api-*.com^
+||23.109.82.
+||centent.streamp1ay.
+||142.91.159.
+||cas.*.criteo.com^
+||23.109.87.
+||cintent.streanplay.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||aff*.kolektiva.net^
+||collector-*.px-client.net^
+||stats-*.p2pnow.ru^
+||pixel.archive.
+||mcdp-*.outbrain.com^
+||servo-report.dvdfab.
+||fb_servpub-a.akamaihd.net^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||maas-*.phunware.com^
 ||solutions.|pages.indigovision.com^
 ||cnt.winporn.
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
-||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
-||23.109.82.
+||stats*.credit-cooperatif.coop^
 ||ce-global-track-*.amazonaws.com^
 ||trk*.vidible.tv^
 ||events*.cre.ma^
-||158.247.208.
-||util-*.simply-hentai.com^
+||stats.zone-annuaire.
 ||analytics*.prezly.com^
-||centent.streamp1ay.
+||onetrust.
 ||piano_log.kingsoft.jp^
-||142.91.159.
-||cas.*.criteo.com^
-||23.109.87.
+||sta.zone-telechargement.
 ||pxl-*.ozone.ru^
 ||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
-||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||matt.mercadolibre.
 ||cs*.mp3bars.com^
 ||datacollector-*.dt.hicloud.com^
 ||collect-v*.51.la^
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
-|piwik.
 ||device-metrics-us*.amazon.com^
 ||sdk.fra-*.braze.eu^
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
@@ -153,25 +164,18 @@
 ||ana*.inews24.com^
 ||sensorsdata*.read.duokan.com^
 ||adservice.google.
-||geotargetly-api-*.com^
 ||c*hit.zerkalo.io^
-||liveme-sensors-collect2-*.amazonaws.com^
-||seller-log-collector.shopee.
 ||mon-*.tiktokv.com^
-||sta.zone-telechargement.
 ||mail._domainkey.hb.tt.omtrdc.net^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||analytics-rollout-*.amazonaws.com^
+||stat.*.v-56.com^
 ||datacollect*.abtasty.com^
-||collector-*.px-client.net^
-||stats-*.p2pnow.ru^
 ||report*.appmetrica.webvisor.com^
 ||cnt.vivatube.
 ||beacons*.gvt3.com^
 ||stats.zone-telechargement.
 ||flurry.agentportal.*.yahoodns.net^
-||stats.zone-annuaire.
-||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||geoloc*.geovisite.ovh^
@@ -179,53 +183,46 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||tracking.*.miui.com^
-||analytics.streamfab.
 ||gtmdev.jabra.
-||telemetry*.transcend.io^
-||tracking.olx.
-||mcdp-*.outbrain.com^
-||servo-report.dvdfab.
-||cnt.tubeon.
-||host*.polaroid.com^
-||xlog*-*.tiktokv.com^
-||track.zalando.
-||geoloc*.geostats.ovh^
-||events-api*.outfit7.com^
-||ssp*.rtb.beeline.ru^
-||rum*.cdnvideo.ru^
-||lt*.tritondigital.com^
-||device-metrics-*.amazon.com^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||clog*.yuanfudao.com^
 ||collector.hamsterix.
-||stats*.credit-cooperatif.coop^
 ||mapi-log.qoo*.jp^
+||tracking.olx.
 ||log*.vietnamplus.vn^
 ||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
-||fb_servpub-a.akamaihd.net^
+||xlog*-*.tiktokv.com^
 ||a*.smlog.co.kr^
+||track.zalando.
 ||app-analytics-*.snapchat.com^
+||liveme-sensors-collect2-*.amazonaws.com^
+||seller-log-collector.shopee.
 ||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
+||rum*.cdnvideo.ru^
 ||lively-collect-elb-*.amazonaws.com^
+||lt*.tritondigital.com^
+||device-metrics-*.amazon.com^
 ||track.*.roku.com^
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||appanalysis*.banggood.com^
 ||geoloc*.geo20120530.com^
+||telemetry*.transcend.io^
 ||cnt.proporn.
+||cnt.tubeon.
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
-||aff*.kolektiva.net^
-||onetrust.
+||host*.polaroid.com^
+||geoloc*.geostats.ovh^
 ||datacollector-*.dt.dbankcloud.cn^
+||ssp*.rtb.beeline.ru^
 ||f-log-*.grammarly.io^
 ||wa.gmx.
 ||stats*.videonow.ru^
-||pixel.archive.
 ||analytics*.clickdimensions.com^
 ||track.tiara.
 ||iptracker-lb-*.amazonaws.com^
 ||mobileanalytics.*.amazonaws.com^
+||tracking.*.miui.com^
+|piwik.
 ||pixel*.adswizz.com
 ||sock*-goguardian.pusher.com^
 ||gscounters.*.gigya.com^
@@ -233,7 +230,9 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||mcs-va-*.tiktokv.com^
+||events-api*.outfit7.com^
 ||counter*-yadro*-ru.unblocked.lol^
+||analytics.streamfab.
 ||batchlogging*-eu.truecaller.com^
 ||metric*.rediff.com^
 ||eum*.instana.io^
@@ -242,6 +241,7 @@ directtrack.*.js
 ||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
 ||stat.tiara.
 ||rtlog*.tiktokv.com^
+||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
 ||logservice-*.platform.dbankcloud.cn^
 ||log*.aliyuncs.com^
 ||stat*.1internet.tv^
