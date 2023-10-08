@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-08 00:16:45
+! Last Modified: 2023-10-08 09:08:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||p*.adkwai.com^
@@ -58,9 +58,9 @@
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
 ||fpb*.51edu.com^
-||host*.ncoi.nl^
 ||static*.365inews.com^
 ||ja*.gamersky.com^
+||host*.ncoi.nl^
 ||counter*-yadro*-ru.unblocked.lol^
 ||sgtm.fashionunited.
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
@@ -73,12 +73,12 @@
 ||gcw*.2liang.cn^
 ||fpb1.chinacar.
 ||datacollector-*.dt.dbankcloud.cn^
-||button.blogs.yandex.
 ||acookie.*.gif?
 ||js*.abolezi.com^
+||button.blogs.yandex.
 ||wa.gmx.
-||flurry.agentportal-*.yahoodns.net^
 ||union*.365inews.com^
+||flurry.agentportal-*.yahoodns.net^
 ||tw*.netcore.co.in^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
@@ -159,15 +159,15 @@
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||host*.nti.nl^
+||23.109.82.
 ||gtmdev.jabra.
 ||grs.dbankcloud.
-||23.109.82.
 ||tracking*.euroads.fi^
 ||rum*.a.trbcdn.net^
 ||adservice.google.
-||mon*-platform-*.tiktokv.com^
 ||158.247.208.
 ||util-*.simply-hentai.com^
+||mon*-platform-*.tiktokv.com^
 ||host*.carl-ras.dk^
 ||centent.streamp1ay.
 ||142.91.159.
@@ -222,8 +222,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
 ||gscounters.*.gigya.com^
-||invenio_tracking_*.sgnapps.com^
 ||geotargetly-api-*.com^
+||invenio_tracking_*.sgnapps.com^
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||seller-log-collector.shopee.
