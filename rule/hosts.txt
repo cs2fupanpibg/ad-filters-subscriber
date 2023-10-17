@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-10-17 00:20:14
+! Last Modified: 2023-10-17 09:04:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -269,8 +269,8 @@
 127.0.0.1 get.sessions.exchange
 127.0.0.1 vip.youzu.com
 127.0.0.1 www.379707.com
-127.0.0.1 baiduyubaidu.com
 127.0.0.1 m.adsymptotic.com
+127.0.0.1 baiduyubaidu.com
 127.0.0.1 xpj23222.com
 127.0.0.1 casterist.info
 127.0.0.1 www.fastclick.net
@@ -599,8 +599,8 @@
 127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 cdn.zampdsp.com
 127.0.0.1 a.dounanhuahui.com
-127.0.0.1 codejumps.com
 127.0.0.1 tuijian.baidu.com
+127.0.0.1 codejumps.com
 127.0.0.1 ad.51wnl-cq.com
 127.0.0.1 talk.nz4.gepush.com
 127.0.0.1 iadmusicmat.music.126.net
@@ -768,8 +768,8 @@
 127.0.0.1 s65.cnzz.com
 127.0.0.1 watchkbsmbcsbs.j8inn1zektoe.com
 127.0.0.1 c-adash.m.taobao.com
-127.0.0.1 bttrack.com
 127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 bttrack.com
 127.0.0.1 brort.stsdk.vivo.com.cn
 127.0.0.1 dtscout.rtb.adx1.com
 127.0.0.1 wds.inte.sogoucdn.com
@@ -906,8 +906,8 @@
 127.0.0.1 s.zlhudong.com
 127.0.0.1 sun0062.com
 127.0.0.1 zz.bdstatic.com
-127.0.0.1 crashlytics.163.com
 127.0.0.1 download.wan.sohu.com
+127.0.0.1 crashlytics.163.com
 127.0.0.1 www.comwgi.com
 127.0.0.1 ssp-api.domob.cn
 127.0.0.1 service.ad.duomi.com
@@ -1024,8 +1024,8 @@
 127.0.0.1 hzs10.cnzz.com
 127.0.0.1 www.vns8989.com
 127.0.0.1 c.kuaiduizuoye.com
-127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 commercial.shouji.360.cn
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 tags.bluekai.com
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 yo234.com
@@ -1363,8 +1363,8 @@
 127.0.0.1 pj39330.com
 127.0.0.1 sclick.baidu.com
 127.0.0.1 t5.a.market.xiaomi.com
-127.0.0.1 api.adsniper.ru
 127.0.0.1 static.doubleclick.net
+127.0.0.1 api.adsniper.ru
 127.0.0.1 ad-bg.adwo.com
 127.0.0.1 cacerts.digitalcertvalidation.com
 127.0.0.1 adfilter.imtt.qq.com
@@ -1539,8 +1539,8 @@
 127.0.0.1 www.44y36.com
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 m.fengwanwl.com
-127.0.0.1 bb55268.com
 127.0.0.1 g1.tagtic.cn
+127.0.0.1 bb55268.com
 127.0.0.1 buyu9943.com
 127.0.0.1 api.youngle.tech
 127.0.0.1 click.uve.mobile.sina.cn
@@ -1670,8 +1670,8 @@
 127.0.0.1 www.55749.net
 127.0.0.1 ggxpj5.com
 127.0.0.1 toutoucao7.com
-127.0.0.1 csktv98.com
 127.0.0.1 entry.baidu.com
+127.0.0.1 csktv98.com
 127.0.0.1 www.kc75.com
 127.0.0.1 wxa.wxs.qq.com
 127.0.0.1 anquan.baidu.com
@@ -1872,8 +1872,8 @@
 127.0.0.1 g2.gumgum.com
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
-127.0.0.1 4009997658.com
 127.0.0.1 c.cnzz.com
+127.0.0.1 4009997658.com
 127.0.0.1 www2s.j8inn1zektoe.com
 127.0.0.1 cams.com
 127.0.0.1 ad.aspm.jp
@@ -1889,8 +1889,8 @@
 127.0.0.1 m.ybstwl.com
 127.0.0.1 e.tf.360.cn
 127.0.0.1 gorgon.youdao.com
-127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 mobads-logs.baidu.com
+127.0.0.1 cm.cn.miaozhen.com
 127.0.0.1 count43.51yes.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 eversely.com
@@ -2170,8 +2170,8 @@
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 rec.g.163.com
-127.0.0.1 static-ssl.mediav.com
 127.0.0.1 cm.baidu.com
+127.0.0.1 static-ssl.mediav.com
 127.0.0.1 freeteen.com
 127.0.0.1 new.atas.io
 127.0.0.1 api.myadsget.com
@@ -2426,8 +2426,8 @@
 127.0.0.1 qihoo.cn
 127.0.0.1 sale.aliexpress.com
 127.0.0.1 xpjylc9977.com
-127.0.0.1 hg89038.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 hg89038.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -2707,8 +2707,8 @@
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 c2.l.qq.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
-127.0.0.1 vt.ipinyou.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 vt.ipinyou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 www.163ren.com
 127.0.0.1 d.cntv.cn
@@ -3121,9 +3121,9 @@
 127.0.0.1 www.jihehuaban.com.cn
 127.0.0.1 www.qbdgame.com
 127.0.0.1 saturn.appads.com
+127.0.0.1 videopush.baidu.com
 127.0.0.1 c.admaster.com.cn
 127.0.0.1 adserver.xpanama.net
-127.0.0.1 videopush.baidu.com
 127.0.0.1 count34.51yes.com
 127.0.0.1 repository.certum.pl
 127.0.0.1 cd010.www.duba.net
@@ -3271,8 +3271,8 @@
 127.0.0.1 click1n.soufun.com
 127.0.0.1 www.h163e.com
 127.0.0.1 s59.cnzz.com
-127.0.0.1 acadiannaturecruises.mobi
 127.0.0.1 hzs3.cnzz.com
+127.0.0.1 acadiannaturecruises.mobi
 127.0.0.1 cd002.www.duba.net
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 www.7355000.com
@@ -3905,8 +3905,8 @@
 127.0.0.1 360anquantou.cn
 127.0.0.1 wz.37wan.com
 127.0.0.1 ad.where.com
-127.0.0.1 ncz.yeepay.com
 127.0.0.1 s6.cnzz.com
+127.0.0.1 ncz.yeepay.com
 127.0.0.1 www.365vip00.co
 127.0.0.1 media.mydas.mobi
 127.0.0.1 sc-static.net
@@ -4222,8 +4222,8 @@
 127.0.0.1 web.adriver.ru
 127.0.0.1 cdn.outfit7.com
 127.0.0.1 plufdsb.com
-127.0.0.1 feed.baidu.com
 127.0.0.1 hzs12.cnzz.com
+127.0.0.1 feed.baidu.com
 127.0.0.1 ad.ikonke.com
 127.0.0.1 cytroncdn.videojj.com
 127.0.0.1 www.bb-503.com
@@ -4298,8 +4298,8 @@
 127.0.0.1 xpj11.net
 127.0.0.1 logs.amap.com
 127.0.0.1 static.reallesbianexposed.com
-127.0.0.1 mgr.aduu.cn
 127.0.0.1 openrcv.baidu.com
+127.0.0.1 mgr.aduu.cn
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 g1.163.com
 127.0.0.1 l-ring.msedge.net
@@ -4419,8 +4419,8 @@
 127.0.0.1 www.417720.com
 127.0.0.1 info.wps.cn
 127.0.0.1 api.trwl1.com
-127.0.0.1 bigmobileads.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 bigmobileads.com
 127.0.0.1 wx.sifakaoshi360.com
 127.0.0.1 m.menwww.com
 127.0.0.1 pagead2.googleadservices.com
