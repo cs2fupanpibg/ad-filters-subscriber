@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-10-23 16:19:29
+! Last Modified: 2023-10-24 00:18:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -3905,8 +3905,8 @@
 127.0.0.1 360anquantou.cn
 127.0.0.1 wz.37wan.com
 127.0.0.1 ad.where.com
-127.0.0.1 ncz.yeepay.com
 127.0.0.1 s6.cnzz.com
+127.0.0.1 ncz.yeepay.com
 127.0.0.1 www.365vip00.co
 127.0.0.1 media.mydas.mobi
 127.0.0.1 sc-static.net
