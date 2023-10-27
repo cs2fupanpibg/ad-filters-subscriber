@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-27 16:17:57
+! Last Modified: 2023-10-28 00:18:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||sax*.sina.
@@ -47,12 +47,12 @@
 ||dm*.ppzuowen.com^
 ||cs*.mp3bars.com^
 ||impservice*.youdao.com^
-||ce-global-track-*.amazonaws.com^
 ||d*.ruiwen.com^
-||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
+||ce-global-track-*.amazonaws.com^
 ||dn*.ixinwei.com^
-||trk*.vidible.tv^
+||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
 ||ac*.786ip.com^
+||trk*.vidible.tv^
 ||ya*.dwstatic.com^
 ||report.*.qq.com^
 ||seller-log-collector.shopee.
@@ -60,19 +60,19 @@
 ||fpb*.51edu.com^
 ||host*.ncoi.nl^
 ||ysdm*.ys137.com.cn^
-||sgtm.fashionunited.
 ||ac*.pingguolv.com^
+||sgtm.fashionunited.
 ||track.*.roku.com^
 ||analytics-rollout-*.amazonaws.com^
 ||dm*.yxlady.com^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||same*.stockstar.com^
 ||120.27.*.html
 ||browser-intake-*-datadoghq.com^
 ||beacons*.gvt3.com^
-||tracker.twenga.
 ||fpb1.chinacar.
+||tracker.twenga.
 ||aff*.kolektiva.net^
 ||113.17.188.*.js
 ||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
@@ -227,8 +227,6 @@ directtrack.*.js
 ||imp-*.jampp.com^
 ||device-metrics-*.amazon.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||iptracker-lb-*.amazonaws.com^
 ||grs.dbankcloud.
 ||geoloc*.geo20120530.com^
@@ -242,6 +240,8 @@ directtrack.*.js
 ||collector.xhamster*.
 ||pxl-*.ozone.ru^
 ||lt*.tritondigital.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||158.247.208.
 ||util-*.simply-hentai.com^
