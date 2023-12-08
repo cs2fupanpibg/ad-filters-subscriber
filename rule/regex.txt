@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-12-08 16:19:11
+! Last Modified: 2023-12-09 00:19:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -103,6 +103,7 @@ directtrack.*.js
 ||ssp*.rtb.beeline.ru^
 ||log-*.previewnetworks.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
 ||collect-v*.51.la^
 ||datacollector-*.dt.hicloud.com^
 ||logger-*.dailymotion.com^
@@ -124,26 +125,33 @@ directtrack.*.js
 ||batchlogging*-noneu.truecaller.com^
 ||analytics.*.sky.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||t*.zcvh.net^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||clog*.yuanfudao.com^
-||metric*.rediff.com^
-||cnt.proporn.
 ||ce-global-track-*.amazonaws.com^
 ||log*.vietnamplus.vn^
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||142.91.159.
+||allsportsflix.
+||23.109.87.
+||rum*.cdnvideo.ru^
+||ubacollect-*.cloud.dbankcloud.cn^
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
+||metric*.rediff.com^
+||23.109.82.
+||cnt.proporn.
 ||stat.tiara.
 ||stats.zone-telechargement.
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||stats.zone-annuaire.
+||158.247.208.
+||cas.*.criteo.com^
 ||geoloc*.geovisite.ovh^
 ||flurry.agentportal-*.yahoodns.net^
 ||mon*-*.tiktokv.us^
-||rum*.cdnvideo.ru^
 ||log*.byteoversea.com^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||bi-eventtracker-*.amazonaws.com^
+||cintent.streanplay.
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pixel*.production-public.tubi.io^
@@ -155,17 +163,13 @@ directtrack.*.js
 ||a*.smlog.co.kr^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
-||util-*.simply-hentai.com^
 ||sock*-goguardian.pusher.com^
 ||invenio_tracking_*.sgnapps.com^
+||geotargetly-api-*.com^
 ||collector-*.px-cloud.net^
 ||host*.carl-ras.dk^
 ||mcs-va-*.tiktokv.com^
-||centent.streamp1ay.
-||142.91.159.
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
-||allsportsflix.
-||23.109.87.
 ||analytics-rollout-*.amazonaws.com^
 ||appanalysis*.banggood.com^
 ||track.*.roku.com^
@@ -173,7 +177,6 @@ directtrack.*.js
 ||stat.*.v-56.com^
 ||hstats*.hepsiburada.com^
 ||stats-*.p2pnow.ru^
-||23.109.82.
 ||eum*.instana.io^
 ||report*.appmetrica.webvisor.com^
 ||telemetry*.transcend.io^
@@ -183,21 +186,22 @@ directtrack.*.js
 ||beacons*.gvt3.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||cnt.tubeon.
-||158.247.208.
 ||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||cas.*.criteo.com^
 ||analyzer*.fc2.com^
 ||tw*.netcore.co.in^
-||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bc.geocities.
 ||mobileanalytics.*.amazonaws.com^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
+||mcdp-*.outbrain.com^
+||servo-report.dvdfab.
+||fb_servpub-a.akamaihd.net^
+||analytics-api.dvdfab.
 ||mon*-platform-*.tiktokv.com^
 ||collect-elb-*.amazonaws.com^
-||geotargetly-api-*.com^
 ||report.*.qq.com^
+||sta.zone-telechargement.
 ||st-*.dynamicyield.com^
 ||t.delfi.
 ||analytics.ticketmaster.
@@ -211,8 +215,11 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||adcounter*.uptolike.ru^
 ||fp-*it*.fengkongcloud.com^
 ||stats2.*.fdnames.com^
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||rtlog*.tiktokv.com^
+||onetrust.
 ||log*.aliyuncs.com^
+||pixel.archive.
 ||host*.rigbyandpeller.com^
 ||pxl-*.ozone.ru^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
@@ -226,17 +233,12 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 |piwik.
 ||tracking*.euroads.fi^
 ||cnt.nuvid.
-||mcdp-*.outbrain.com^
 ||wxvicckcrh._tcp.arkena.hb.tt.omtrdc.net^
-||servo-report.dvdfab.
-||fb_servpub-a.akamaihd.net^
-||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
 ||analytics*.carambo.la^
 ||gscounters.*.gigya.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||px*.mediahills.ru^
-||sta.zone-telechargement.
 ||pixelapi-*.cs.mysamba.tv^
 ||host*.ncoi.nl^
 ||log*-applog-*.tiktokv.com^
@@ -245,13 +247,10 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||ad*.ettoday.net^
 ||tnc16-*.byteoversea.com^
 ||log*-misc-lf.amemv.com^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||host*.polaroid.com^
 ||events*.cre.ma^
 ||logservice-*.platform.dbankcloud.cn^
-||onetrust.
 ||datacollector-*.dt.dbankcloud.cn^
 ||stat*.1internet.tv^
 ||collector.xhamster*.
-||pixel.archive.
 ||track.tiara.
