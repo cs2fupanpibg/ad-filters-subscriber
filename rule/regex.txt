@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-01-12 00:20:06
+! Last Modified: 2024-01-12 09:09:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -44,67 +44,61 @@
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||stats-*.p2pnow.ru^
-||log-collector.shopee.
-||cnt.vivatube.
+||dm*.ppzuowen.com^
+||sax*.sina.
+||bd*-ys.km.com^
+||uc*.atobo.com^
+||impservice*.youdao.com^
 ||ce-global-track-*.amazonaws.com^
-||beacons*.gvt3.com^
-||host*.rvshare.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
-||rtlog*.tiktokv.com^
+||ac*.786ip.com^
 ||analytics*.carambo.la^
 ||gscounters.*.gigya.com^
-||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
+||ad*.on.cc^
+||fpb*.51edu.com^
+||d*.xinshipu.com^
 ||px*.mediahills.ru^
+||ja*.gamersky.com^
+||ysdm*.ys137.com.cn^
+||dm*.yxlady.com^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||stats-*.p2pnow.ru^
+||log-collector.shopee.
+||120.27.*.html
+||cnt.vivatube.
+||impservice*.yodao.com^
+||beacons*.gvt3.com^
+||host*.rvshare.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
+||rtlog*.tiktokv.com^
+||113.17.188.*.js
+||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
 ||collector.xhamster*.
 ||pixel.archive.
 ||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
 ||imp-*.jampp.com^
+||asd8900.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||dm*.ppzuowen.com^
-||sax*.sina.
 ||tracking.*.miui.com^
-||bd*-ys.km.com^
-||uc*.atobo.com^
-||impservice*.youdao.com^
+||hstats*.hepsiburada.com^
 ||pixel*.adswizz.com
 ||tracking.olx.
-||dn*.ixinwei.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||ac*.786ip.com^
+||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
+||tracker.twenga.
 ||metrics.gali|metrics.reallymoving.com^
-728x90.jpg|
 ||collect-elb-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||c*hit.zerkalo.io^
-||ad*.on.cc^
-||fpb*.51edu.com^
-||d*.xinshipu.com^
-||ja*.gamersky.com^
-||ysdm*.ys137.com.cn^
-||api-*.hismarttv.com^
-||at*.doubanio.com^
-||dm*.yxlady.com^
-||hstats*.hepsiburada.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||120.27.*.html
-||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
-||impservice*.yodao.com^
-||tracker.twenga.
-||ac*.faxingchina.com^
-||fpb1.chinacar.
-||113.17.188.*.js
 ||pixel-*.rubiconproject.com^
-||js*.abolezi.com^
-||qpb*.sohu.com^
-||122.225.103.*.htm
 ||batchlogging*-noneu.truecaller.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
+||api-*.hismarttv.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
 ||metric*.rediff.com^
@@ -196,7 +190,9 @@ directtrack.*.js
 ||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||smetriccom^
+||host*.nti.nl^
 ||t*.zcvh.net^
+||cnt.hd21.
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
 ||tracking*.euroads.fi^
 ||log*.vietnamplus.vn^
@@ -206,11 +202,13 @@ directtrack.*.js
 ||servo-report.dvdfab.
 ||adservice.google.
 ||analytics-*-nfl.yinzcam.com^
+728x90.jpg|
 ||mon*-platform-*.tiktokv.com^
 ||collector-*.px-cloud.net^
 ||sta.zone-telechargement.
 ||pixelapi-*.cs.mysamba.tv^
 ||sgtm.fashionunited.
+||at*.doubanio.com^
 ||auth-*.hismarttv.com^
 ||eum*.instana.io^
 ||stats2.*.fdnames.com^
@@ -221,15 +219,17 @@ directtrack.*.js
 ||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||datacollector-*.dt.dbankcloud.cn^
+||js*.abolezi.com^
 ||geoloc*.geovisite.ovh^
 ||stats*.videonow.ru^
+||qpb*.sohu.com^
 ||host*.rigbyandpeller.com^
 ||log*.byteoversea.com^
+||122.225.103.*.htm
+||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
-||host*.nti.nl^
 ||cs*.mp3bars.com^
-||cnt.hd21.
 ||gtmdev.jabra.
 ||datacollector-*.dt.hicloud.com^
 ||bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net^
@@ -249,6 +249,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||host*.polaroid.com^
 ||build|click.signaturemarket.co^
+||events*.cre.ma^
 ||aff*.kolektiva.net^
 ||analytics*.prezly.com^
 ||onetrust.
@@ -260,7 +261,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||datacollect*.abtasty.com^
 ||clog*.yuanfudao.com^
 ||cnt.proporn.
-||events*.cre.ma^
 ||track.zalando.
 ||button.blogs.yandex.
 ||flurry.agentportal-*.yahoodns.net^
