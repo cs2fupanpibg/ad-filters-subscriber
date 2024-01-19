@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-01-19 16:19:24
+! Last Modified: 2024-01-20 00:19:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -1024,8 +1024,8 @@
 127.0.0.1 hzs10.cnzz.com
 127.0.0.1 www.vns8989.com
 127.0.0.1 c.kuaiduizuoye.com
-127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 commercial.shouji.360.cn
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 tags.bluekai.com
 127.0.0.1 api.yidaomobi.com
 127.0.0.1 yo234.com
@@ -1539,8 +1539,8 @@
 127.0.0.1 www.44y36.com
 127.0.0.1 cmshow.gtimg.cn
 127.0.0.1 m.fengwanwl.com
-127.0.0.1 bb55268.com
 127.0.0.1 g1.tagtic.cn
+127.0.0.1 bb55268.com
 127.0.0.1 buyu9943.com
 127.0.0.1 api.youngle.tech
 127.0.0.1 click.uve.mobile.sina.cn
@@ -2706,8 +2706,8 @@
 127.0.0.1 notice.iqiyi.com
 127.0.0.1 c2.l.qq.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
-127.0.0.1 vt.ipinyou.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 vt.ipinyou.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 www.163ren.com
 127.0.0.1 d.cntv.cn
@@ -4418,8 +4418,8 @@
 127.0.0.1 www.417720.com
 127.0.0.1 info.wps.cn
 127.0.0.1 api.trwl1.com
-127.0.0.1 bigmobileads.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 bigmobileads.com
 127.0.0.1 wx.sifakaoshi360.com
 127.0.0.1 m.menwww.com
 127.0.0.1 pagead2.googleadservices.com
