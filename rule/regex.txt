@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-01-29 00:15:51
+! Last Modified: 2024-01-29 09:04:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -52,6 +52,7 @@
 ||grs.dbankcloud.
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
 ||mcdp-*.outbrain.com^
@@ -59,8 +60,10 @@
 ||8*.tianya.cn^
 728x90.jpg|
 ||st-*.dynamicyield.com^
+||ysdm*.ys137.com.cn^
 ||lively-collect-elb-*.amazonaws.com^
 ||ac*.pingguolv.com^
+||at*.doubanio.com^
 ||device-metrics-*.amazon.com^
 ||dm*.yxlady.com^
 ||stat.*.v-56.com^
@@ -79,6 +82,7 @@
 ||js*.abolezi.com^
 ||stat*.1internet.tv^
 ||sam*.baby-kingdom.com^
+||218.26.217.*.html
 ||pixel.archive.
 ||track.tiara.
 ||122.225.103.*.htm
@@ -100,6 +104,7 @@
 ||get-me-wow.
 ||report*.appmetrica.webvisor.com^
 ||host*.polaroid.com^
+||iqkufk^
 ||invenio_tracking_*.sgnapps.com^
 ||geoloc*.geovisite.ovh^
 ||stats*.videonow.ru^
@@ -115,11 +120,9 @@
 ||cnt.nuvid.
 ||analytics-*-nfl.yinzcam.com^
 ||trk*.vidible.tv^
-||util-*.simply-hentai.com^
 ||gscounters.*.gigya.com^
 ||emam^
 ||seller-log-collector.shopee.
-||centent.streamp1ay.
 ||142.91.159.
 ||allsportsflix.
 ||23.109.87.
@@ -135,7 +138,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||cas.*.criteo.com^
 ||button.blogs.yandex.
 ||log*.byteoversea.com^
-||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||smetriccom^
 |piwik.
@@ -143,9 +145,11 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sensorsdata*.read.duokan.com^
 ||analytics-api.dvdfab.
 ||analytics*.carambo.la^
+||util-*.simply-hentai.com^
 ||collect-elb-*.amazonaws.com^
 ||geotargetly-api-*.com^
 ||smcom^
+||centent.streamp1ay.
 ||mon-*.tiktokv.com^
 ||tracking-*.trnox.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -160,57 +164,54 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
 ||pxl-*.ozone.ru^
 ||tw*.netcore.co.in^
+||cintent.streanplay.
 ||analytics.*.sky.com^
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||pixel*.production-public.tubi.io^
-||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
+||auth-*.hismarttv.com^
+||hstats*.hepsiburada.com^
 ||cnt.hd21.
-||clog*.yuanfudao.com^
-||datacollector-*.dt.hicloud.com^
+||geoloc*.geo20120530.com^
 ||logger-*.dailymotion.com^
-||tracking*.euroads.fi^
-||fanpingbi*.gaokao.com^
-||ce-global-track-*.amazonaws.com^
+||beacons*.gvt3.com^
 ||rum*.a.trbcdn.net^
 ||servo-report.dvdfab.
 ||xlog*-*.tiktokv.com^
-||app-analytics-*.snapchat.com^
-||collector-*.tvsquared.com^
-||events-api*.outfit7.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
-||px*.mediahills.ru^
-||mail._domainkey.hb.tt.omtrdc.net^
-||counter*-yadro*-ru.unblocked.lol^
-||ysdm*.ys137.com.cn^
-||at*.doubanio.com^
-||auth-*.hismarttv.com^
-||analytics.streamfab.
-||hstats*.hepsiburada.com^
-||geoloc*.geo20120530.com^
-||ad*.ettoday.net^
-||telemetry*.transcend.io^
-||beacons*.gvt3.com^
-||cnt.tubeon.
-||events*.cre.ma^
 ||logservice-*.platform.dbankcloud.cn^
-||datacollector-*.dt.dbankcloud.cn^
+||events-api*.outfit7.com^
+||mail._domainkey.hb.tt.omtrdc.net^
 ||analyzer*.fc2.com^
-||218.26.217.*.html
-||f-log-*.grammarly.io^
 ||bi-eventtracker-*.amazonaws.com^
-||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
+||counter*-yadro*-ru.unblocked.lol^
 ||batchlogging*-noneu.truecaller.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bc.geocities.
-||aff*.kolektiva.net^
-||collector-*.px-client.net^
+||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
+||clog*.yuanfudao.com^
+||datacollector-*.dt.hicloud.com^
+||tracking*.euroads.fi^
+||ce-global-track-*.amazonaws.com^
 ||hn-ping*.hashnode.com^
-||log-*.previewnetworks.com^
-||stats2.*.fdnames.com^
-||analytics.ticketmaster.
 ||adservice.google.
 ||fb_servpub-a.akamaihd.net^
+||app-analytics-*.snapchat.com^
+||collector-*.tvsquared.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
+||px*.mediahills.ru^
+||log-*.previewnetworks.com^
+||analytics.ticketmaster.
+||analytics.streamfab.
+||collector-*.px-client.net^
+||ad*.ettoday.net^
+||telemetry*.transcend.io^
+||stats2.*.fdnames.com^
+||cnt.tubeon.
+||events*.cre.ma^
+||aff*.kolektiva.net^
+||datacollector-*.dt.dbankcloud.cn^
+||f-log-*.grammarly.io^
+||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
 ||host*.nti.nl^
