@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-02-15 00:18:16
+! Last Modified: 2024-02-15 09:04:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -49,39 +49,40 @@
 ||d*.ruiwen.com^
 ||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
-||a*.smlog.co.kr^
 ||ac*.786ip.com^
+||a*.smlog.co.kr^
 728x90.jpg|
 ||collector-*.tvsquared.com^
-||events-api*.outfit7.com^
 ||fpb*.51edu.com^
+||events-api*.outfit7.com^
 ||sta.zone-telechargement.
-||log-*.previewnetworks.com^
 ||static*.365inews.com^
+||ja*.gamersky.com^
+||log-*.previewnetworks.com^
 ||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||dm*.yxlady.com^
 ||adi*.cnool.net^
+||zhizhizhizhi.oss-*.aliyuncs.com^
 ||same*.stockstar.com^
 ||metric*.rediff.com^
+||gcw*.2liang.cn^
 ||browser-intake-*-datadoghq.com^
 ||impservice*.yodao.com^
 ||121.204.246.*.gif
-||button.blogs.yandex.
 ||acookie.*.gif?
 ||js*.abolezi.com^
+||button.blogs.yandex.
 ||sam*.baby-kingdom.com^
 ||qpb*.sohu.com^
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||batchlogging*-noneu.truecaller.com^
 ||asd8900.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||zhizhizhizhi.oss-*.aliyuncs.com^
 ||matt.mercadolibre.
 ||stats-*.p2pnow.ru^
 ||log-collector.shopee.
 ||geoloc*.geo20120530.com^
-||gcw*.2liang.cn^
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||cnt.nuvid.
 ||ana*.inews24.com^
@@ -90,7 +91,6 @@
 ||wa.gmx.
 ||stats*.videonow.ru^
 ||analytics*.clickdimensions.com^
-||ja*.gamersky.com^
 ||track.*.roku.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
@@ -179,6 +179,7 @@
 ||mobileanalytics.*.amazonaws.com^
 ||gtmdev.jabra.
 ||logger-*.dailymotion.com^
+||sensorsdata*.read.duokan.com^
 ||analytics-api.dvdfab.
 ||mcs-va-*.tiktokv.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -208,7 +209,6 @@ directtrack.*.js
 ||stats*.credit-cooperatif.coop^
 ||mcdp-*.outbrain.com^
 ||stats2.*.fdnames.com^
-||sensorsdata*.read.duokan.com^
 ||adservice.google.
 ||servo-report.dvdfab.
 ||fb_servpub-a.akamaihd.net^
@@ -248,8 +248,8 @@ directtrack.*.js
 ||telemetry*.transcend.io^
 ||tnc16-*.byteoversea.com^
 ||events*.cre.ma^
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||onetrust.
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sta.wawacity.
 ||analyzer*.fc2.com^
 ||mon*-*.tiktokv.us^
