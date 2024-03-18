@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-03-18 16:18:15
+! Last Modified: 2024-03-19 00:18:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-lf.zijieapi.com^
@@ -66,19 +66,20 @@
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-|piwik.
-||datacollector-*.dt.hicloud.com^
-||cnt.proporn.
-||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
-||ac*.faxingchina.com^
 ||analytics-*-nfl.yinzcam.com^
 ||pixel-*.rubiconproject.com^
+|piwik.
 ||px*.mediahills.ru^
 ||datacollector-*.dt.dbankcloud.cn^
+||datacollector-*.dt.hicloud.com^
+||cnt.proporn.
 ||geoloc*.geovisite.ovh^
+||hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net^
 ||analytics.*.sky.com^
 ||tw*.netcore.co.in^
+||ac*.faxingchina.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.winporn.
 ||df.infra.sz.shopee.
@@ -144,8 +145,8 @@
 ||bc.geocities.
 ||cnt.yeptube.
 ||hn-ping*.hashnode.com^
-||mcdp-*.outbrain.com^
 ||lfosjghqbh._tcp.aem.hb.tt.omtrdc.net^
+||mcdp-*.outbrain.com^
 ||adservice.google.
 ||servo-report.dvdfab.
 ||analytics-api.dvdfab.
@@ -163,6 +164,7 @@
 ||collector-*.px-client.net^
 ||stats-*.p2pnow.ru^
 ||metric*.rediff.com^
+||ubt.tracking.shopee.
 directtrack.*.js
 ||browser-intake-*-datadoghq.com^
 ||stats2.*.fdnames.com^
@@ -179,36 +181,33 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||lnqkyvufpn._tcp.aem.hb.tt.omtrdc.net^
 ||df.infra.shopee.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||ubt.tracking.shopee.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||dojumbhhij._tcp.abcnews.hb.tt.omtrdc.net^
-||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||stat.*.v-56.com^
-||matt.mercadolibre.
 ||gtmdev.jabra.
 ||cnt.vivatube.
-||stats*.credit-cooperatif.coop^
 ||ce-global-track-*.amazonaws.com^
 ||rum*.a.trbcdn.net^
 ||xlog*-*.tiktokv.com^
 ||a*.smlog.co.kr^
 ||trk*.vidible.tv^
-||host*.polaroid.com^
 ||app-analytics-*.snapchat.com^
 ||collect-elb-*.amazonaws.com^
 ||crslhvbltc._tcp.att.hb.tt.omtrdc.net^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||mcs-va-*.tiktokv.com^
-||onetrust.
 ||tracking-*.trnox.com^
 ||analyzer*.fc2.com^
-||sta.wawacity.
 ||log*.byteoversea.com^
 ||mon*-*.tiktokv.us^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||stat.*.v-56.com^
+||onetrust.
+||stats*.credit-cooperatif.coop^
+||sta.wawacity.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||host*.nti.nl^
 ||t*.zcvh.net^
 ||cs*.mp3bars.com^
+||matt.mercadolibre.
 ||collector.hamsterix.
 ||tracking*.euroads.fi^
 ||mapi-log.qoo*.jp^
@@ -225,10 +224,10 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||maas-*.phunware.com^
 ||geoloc*.geo20120530.com^
 ||telemetry*.transcend.io^
-||fp-*it*.fengkongcloud.com^
 ||log*-misc-lf.amemv.com^
 ||host*.rvshare.com^
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
+||host*.polaroid.com^
 ||events*.cre.ma^
 ||zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net^
 ||analytics*.clickdimensions.com^
@@ -242,7 +241,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||device-metrics-us*.amazon.com^
 ||ottwqtfywh._tcp.aem.hb.tt.omtrdc.net^
 ||cnt.nuvid.
-||ana*.inews24.com^
 ||invenio_tracking_*.sgnapps.com^
 ||events-api*.outfit7.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -250,6 +248,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||pixelapi-*.cs.mysamba.tv^
 ||auth-*.hismarttv.com^
 ||analytics.streamfab.
+||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
 ||adcounter*.uptolike.ru^
 ||batchlogging*-eu.truecaller.com^
 ||report*.appmetrica.webvisor.com^
@@ -261,3 +260,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||logservice-*.platform.dbankcloud.cn^
 ||button.blogs.yandex.
 ||collector.xhamster*.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||fp-*it*.fengkongcloud.com^
+||ana*.inews24.com^
