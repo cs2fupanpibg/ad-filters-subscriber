@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-03-29 16:18:05
+! Last Modified: 2024-03-30 00:18:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-lf.zijieapi.com^
@@ -66,38 +66,39 @@
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||cnt.winporn.
 ||tracking.*.miui.com^
-||t*.zcvh.net^
+||stats-*.p2pnow.ru^
 ||cnt.hd21.
+||log-collector.shopee.
+||report*.appmetrica.webvisor.com^
+||cnt.proporn.
 ||d*.ruiwen.com^
-||tracking.olx.
 ||hn-ping*.hashnode.com^
 ||ana*.inews24.com^
-||analytics-*-nfl.yinzcam.com^
+||log*-misc-lf.amemv.com^
+||stats.zone-telechargement.
+||events*.cre.ma^
 ||mon*-platform-*.tiktokv.com^
 ||gscounters.*.gigya.com^
-||report.*.qq.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||collector-*.tvsquared.com^
+||pixel-*.rubiconproject.com^
 ||faro-collector-prod-*.grafana.net^
 ||counter*-yadro*-ru.unblocked.lol^
 ||appanalysis*.banggood.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||analytics-*-nfl.yinzcam.com^
+||cnt.winporn.
+||t*.zcvh.net^
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||stats-*.p2pnow.ru^
-||log-collector.shopee.
-||report*.appmetrica.webvisor.com^
+||report.*.qq.com^
 ||ad*.ettoday.net^
-||cnt.proporn.
-||telemetry*.transcend.io^
-||log*-misc-lf.amemv.com^
-||stats.zone-telechargement.
-||cnt.tubeon.
-||events*.cre.ma^
-||pixel-*.rubiconproject.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||telemetry*.transcend.io^
 ||geoloc*.geovisite.ovh^
+||tracking.olx.
 ||flurry.agentportal-*.yahoodns.net^
+||cnt.tubeon.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
