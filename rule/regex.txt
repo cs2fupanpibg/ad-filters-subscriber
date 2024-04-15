@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-04-15 16:15:34
+! Last Modified: 2024-04-16 00:18:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -99,7 +99,6 @@
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||matt.mercadolibre.
 ||metric*.rediff.com^
-||get-me-wow.
 ||ubt.tracking.shopee.
 ||ce-global-track-*.amazonaws.com^
 ||hn-ping*.hashnode.com^
@@ -114,6 +113,8 @@
 ||log*.byteoversea.com^
 ||api-*.hismarttv.com^
 ||device-metrics-*.amazon.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||spryptvqguhpwt^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
@@ -164,7 +165,7 @@
 ||log*.vietnamplus.vn^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.dvdfab.
-||trk*.vidible.tv^
+||analytics-api.dvdfab.
 ||analytics*.carambo.la^
 ||track.zalando.
 ||collector-*.tvsquared.com^
@@ -177,9 +178,9 @@
 ||kiojgaikei._tcp.abcotv.hb.tt.omtrdc.net^
 ||analytics.streamfab.
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||collector-*.px-client.net^
 ||geoloc*.geo20120530.com^
 ||browser-intake-*-datadoghq.com^
+||stats2.*.fdnames.com^
 ||tracker.twenga.
 ||bnofoabewd._tcp.aem.hb.tt.omtrdc.net^
 ||df.infra.sz.shopee.
@@ -189,40 +190,34 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||analytics.*.sky.com^
 ||df.infra.shopee.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||a*.smlog.co.kr^
-||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
-||mcs-va-*.tiktokv.com^
-||mcdp-*.outbrain.com^
-||host*.ncoi.nl^
-||ubacollect-*.cloud.dbankcloud.cn^
-||pxl-*.ozone.ru^
-||rum*.a.trbcdn.net^
-||ads-dmp-collect.*.karrotmarket.com^
-||stat.tiara.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
 ||pixel*.production-public.tubi.io^
-||stat.*.v-56.com^
 ||cnt.hd21.
 |piwik.
-||stats*.credit-cooperatif.coop^
 ||mapi-log.qoo*.jp^
+||mcdp-*.outbrain.com^
+||rum*.a.trbcdn.net^
+||trk*.vidible.tv^
+||a*.smlog.co.kr^
+||invenio_tracking_*.sgnapps.com^
+||mcs-va-*.tiktokv.com^
+||liveme-sensors-collect2-*.amazonaws.com^
+||host*.ncoi.nl^
+||ubacollect-*.cloud.dbankcloud.cn^
+||appanalysis*.banggood.com^
+||collector-*.px-client.net^
 ||cnt.proporn.
 ||fp-*it*.fengkongcloud.com^
-||stats2.*.fdnames.com^
-||cnt.tubeon.
-||analytics-api.dvdfab.
-||sock*-goguardian.pusher.com^
-||invenio_tracking_*.sgnapps.com^
-||liveme-sensors-collect2-*.amazonaws.com^
-||analytics*.prezly.com^
-||onetrust.
+||ads-dmp-collect.*.karrotmarket.com^
+||stat.tiara.
+||bbfbffvffm._tcp.aem.hb.tt.omtrdc.net^
 ||sta.wawacity.
 ||stats*.videonow.ru^
+||pxl-*.ozone.ru^
 ||mon*-*.tiktokv.us^
-||bi-eventtracker-*.amazonaws.com^
-||sgtm.fashionunited.
-||appanalysis*.banggood.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||stat.*.v-56.com^
+||onetrust.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.winporn.
 ||mobileanalytics.*.amazonaws.com^
@@ -234,12 +229,15 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net^
 ||datacollector-*.dt.hicloud.com^
 ||collect-v*.51.la^
+||stats*.credit-cooperatif.coop^
 ||logger-*.dailymotion.com^
 ||device-metrics-us*.amazon.com^
 ||cnt.nuvid.
 ||bnzkviwpsd._tcp.aarp.hb.tt.omtrdc.net^
+||sock*-goguardian.pusher.com^
 ||tracking-*.trnox.com^
 ||counter*-yadro*-ru.unblocked.lol^
+||sgtm.fashionunited.
 ||analytics-rollout-*.amazonaws.com^
 ||maas-*.phunware.com^
 ||auth-*.hismarttv.com^
@@ -249,12 +247,15 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 directtrack.*.js
 ||telemetry*.transcend.io^
 ||host*.rvshare.com^
+||cnt.tubeon.
 ||events*.cre.ma^
+||analytics*.prezly.com^
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||geoloc*.geovisite.ovh^
 ||wa.gmx.
 ||track.tiara.
+||bi-eventtracker-*.amazonaws.com^
 ||batchlogging*-noneu.truecaller.com^
 ||tw*.netcore.co.in^
 ||imp-*.jampp.com^
