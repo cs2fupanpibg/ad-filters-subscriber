@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-05 16:17:46
+! Last Modified: 2024-05-06 00:19:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -38,70 +38,70 @@
 ||qpb*.sohu.com^
 ||ky891.oss-*.aliyuncs.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||maas-*.phunware.com^
-||host*.polaroid.com^
-||cnt.hd21.
-||metric*.rediff.com^
-||geoloc*.geostats.ovh^
-||c*hit.zerkalo.io^
-||piano_log.kingsoft.jp^
-||cnt.nuvid.
-||counter*-yadro*-ru.unblocked.lol^
-||pxl-*.ozone.ru^
-||ubacollect-*.cloud.dbankcloud.cn^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||collector.hamsterix.
-||mapi-log.qoo*.jp^
-||log*.vietnamplus.vn^
-||tracking.olx.
-||dn*.ixinwei.com^
-||sensorsdata*.read.duokan.com^
-||fb_servpub-a.akamaihd.net^
-728x90.jpg|
-||ad*.on.cc^
-||log*-applog-*.tiktokv.com^
-||ja*.gamersky.com^
-||ysdm*.ys137.com.cn^
-||ax.*.ifeng.com^
-||js*.abolezi.com^
-||bi-eventtracker-*.amazonaws.com^
-||asd8900.oss-*.aliyuncs.com^
-||bc.geocities.
 ||dm*.ppzuowen.com^
 ||bdcpro*.techweb.com.cn^
 ||bd*-ys.km.com^
+||cnt.hd21.
 ||impservice*.youdao.com^
-||device-metrics-us*.amazon.com^
+||dn*.ixinwei.com^
+||cnt.nuvid.
 ||bdlm*.hc360.com^
 ||a*.chajiaotong.com^
-||trk*.vidible.tv^
-||analytics*.carambo.la^
-||mon*-platform-*.tiktokv.com^
-||geotargetly-api-*.com^
+728x90.jpg|
 ||ya*.dwstatic.com^
-||collector-*.tvsquared.com^
+||ad*.on.cc^
+||c*hit.zerkalo.io^
 ||d*.xinshipu.com^
-||analytics.ticketmaster.
+||ja*.gamersky.com^
+||ysdm*.ys137.com.cn^
+||counter*-yadro*-ru.unblocked.lol^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
+||maas-*.phunware.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
-||log-collector.shopee.
-||report*.appmetrica.webvisor.com^
+||metric*.rediff.com^
 ||impservice*.yodao.com^
-||ads-dmp-collect.*.karrotmarket.com^
 ||fpb1.chinacar.
 ||ac*.faxingchina.com^
-||rtlog*.tiktokv.com^
-||analytics*.prezly.com^
+||host*.polaroid.com^
+||ax.*.ifeng.com^
+||geoloc*.geostats.ovh^
 ||121.204.246.*.gif
+||piano_log.kingsoft.jp^
 ||acookie.*.gif?
-||sta.wawacity.
+||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
-||flurry.agentportal-*.yahoodns.net^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||pxl-*.ozone.ru^
+||asd8900.oss-*.aliyuncs.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||bc.geocities.
+||collector.hamsterix.
+||log-collector.shopee.
+||report*.appmetrica.webvisor.com^
+||mapi-log.qoo*.jp^
+||log*.vietnamplus.vn^
+||tracking.olx.
+||device-metrics-us*.amazon.com^
+||sensorsdata*.read.duokan.com^
+||ads-dmp-collect.*.karrotmarket.com^
+||fb_servpub-a.akamaihd.net^
+||trk*.vidible.tv^
+||rtlog*.tiktokv.com^
+||analytics*.carambo.la^
+||mon*-platform-*.tiktokv.com^
+||geotargetly-api-*.com^
+||collector-*.tvsquared.com^
+||analytics*.prezly.com^
+||sta.wawacity.
+||flurry.agentportal-*.yahoodns.net^
+||log*-applog-*.tiktokv.com^
+||analytics.ticketmaster.
+||bi-eventtracker-*.amazonaws.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||events*.cre.ma^
 ||api*.amplitude.com^
@@ -184,7 +184,6 @@ directtrack.*.js
 ||flurry.agentportal.*.yahoodns.net^
 ||aff*.kolektiva.net^
 ||logservice-*.platform.dbankcloud.cn^
-||df.infra.sz.shopee.
 ||datacollector-*.dt.dbankcloud.cn^
 ||button.blogs.yandex.
 ||f-log-*.grammarly.io^
@@ -197,6 +196,7 @@ directtrack.*.js
 ||pixel*.adswizz.com
 ||logger-*.dailymotion.com^
 ||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
 ||app-analytics-*.snapchat.com^
@@ -211,7 +211,6 @@ directtrack.*.js
 ||auth-*.hismarttv.com^
 ||collector-*.px-client.net^
 ||xizlxlflsi._dmarc.hb.tt.omtrdc.net^
-||stats-*.p2pnow.ru^
 ||geoloc*.geo20120530.com^
 ||cnt.vivatube.
 ||browser-intake-*-datadoghq.com^
@@ -231,12 +230,13 @@ directtrack.*.js
 ||pixel*.production-public.tubi.io^
 ||cnt.winporn.
 ||host*.nti.nl^
+||stats-*.p2pnow.ru^
 ||grs.dbankcloud.
 ||ubt.tracking.shopee.
 ||collect-v*.51.la^
-||tracking*.euroads.fi^
 ||servo-report.dvdfab.
 ||track.zalando.
+||df.infra.sz.shopee.
 ||onetrust.
 ||events-api*.outfit7.com^
 ||ssp*.rtb.beeline.ru^
