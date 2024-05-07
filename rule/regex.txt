@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-07 16:19:01
+! Last Modified: 2024-05-08 00:17:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||host*.nti.nl^
@@ -84,7 +84,6 @@
 ||gscounters.*.gigya.com^
 ||fpb*.51edu.com^
 ||mon-*.tiktokv.com^
-||ja*.gamersky.com^
 ||log*-applog-*.tiktokv.com^
 ||ac*.pingguolv.com^
 ||datacollect*.abtasty.com^
@@ -109,6 +108,7 @@
 ||app-analytics-*.snapchat.com^
 ||collect-elb-*.amazonaws.com^
 ||events-api*.outfit7.com^
+||ja*.gamersky.com^
 ||host*.ncoi.nl^
 ||faro-collector-prod-*.grafana.net^
 ||ubacollect-*.cloud.dbankcloud.cn^
@@ -197,41 +197,41 @@ directtrack.*.js
 ||imp-*.jampp.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||tracking.*.miui.com^
+||t*.zcvh.net^
 ||cs*.mp3bars.com^
+||clog*.yuanfudao.com^
 ||pixel*.adswizz.com
-||ad*.ettoday.net^
+||logger-*.dailymotion.com^
+||hn-ping*.hashnode.com^
 ||servo-report.dvdfab.
 ||xlog*-*.tiktokv.com^
 ||analytics-*-nfl.yinzcam.com^
-||track.zalando.
-||liveme-sensors-collect2-*.amazonaws.com^
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||px*.mediahills.ru^
-||stat*.1internet.tv^
-||collector.xhamster*.
-||rum*.cdnvideo.ru^
-||df.infra.shopee.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||t*.zcvh.net^
-||clog*.yuanfudao.com^
-|piwik.
-||logger-*.dailymotion.com^
-||tccd.douglas.
-||browser-intake-*-datadoghq.com^
-||hn-ping*.hashnode.com^
 ||trk*.vidible.tv^
+||track.zalando.
 ||api*.amplitude.com^
 ||report.*.qq.com^
+||liveme-sensors-collect2-*.amazonaws.com^
 ||seller-log-collector.shopee.
+||px*.mediahills.ru^
+||t.delfi.
+||rum*.cdnvideo.ru^
+||analytics.ticketmaster.
+||device-metrics-*.amazon.com^
+||ad*.ettoday.net^
+||browser-intake-*-datadoghq.com^
+esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||stat*.1internet.tv^
+||collector.xhamster*.
+||collector*.ex.co^
+||mon*-*.tiktokv.us^
+||tw*.netcore.co.in^
+||df.infra.shopee.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+|piwik.
+||tccd.douglas.
 ||pixelapi-*.cs.mysamba.tv^
 ||wa.gmx.
-||collector*.ex.co^
-||t.delfi.
-||mon*-*.tiktokv.us^
-||analytics.ticketmaster.
-||tw*.netcore.co.in^
 ||batchlogging*-noneu.truecaller.com^
-||device-metrics-*.amazon.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||get-me-wow.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
