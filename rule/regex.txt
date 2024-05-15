@@ -1,86 +1,87 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-15 16:19:56
+! Last Modified: 2024-05-16 00:19:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
-||dm*.ppzuowen.com^
-||bdcpro*.techweb.com.cn^
-||bd*-ys.km.com^
-||uc*.atobo.com^
-||impservice*.youdao.com^
-||ads*-normal-lf.zijieapi.com^
-||fanpingbi*.gaokao.com^
-||lf*-orange.byteorge.com^
-||ads*-normal-lf.zijieapi.com.dhcp^
-||fpb*.51edu.com^
-||p*-ad-sign.byteimg.com^
-||v*-ad.video.yximgs.com^
-||ads*-normal-lq.amemv.com^
-||static*.365inews.com^
-||at*.doubanio.com^
 ||ad-*file.myqcloud.com^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
 ||p*-ad.byteimg.com^
 ||ads*-normal-lf.amemv.com^
 ||ads*-normal-lq.zijieapi.com^
-||gcw*.2liang.cn^
+||ads*-normal-lf.zijieapi.com^
 ||ads*-normal.amemv.com^
 ||p*-local-ads.byteimg.com.queniuso.com^
+||lf*-orange.byteorge.com^
 ||p*-webcast-sign.douyinpic.com^
-||ac*.faxingchina.com^
 ||v*-novelapp.fqnovelvod.com^
 ||p*-local-ads.byteimg.com^
 ||ads*-normal.zijieapi.com^
+||ads*-normal-lf.zijieapi.com.dhcp^
 ||p*-ad-aweme.byteimg.com^
+||p*-ad-sign.byteimg.com^
 ||sf*-ttcdn-tos.pstatp.com^
-||js*.abolezi.com^
 ||ads*-normal-hl.zijieapi.com^
+||v*-ad.video.yximgs.com^
+||ads*-normal-lq.amemv.com^
 ||ads*-normal-lq.zijieapi.com.queniuiq.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||dm*.ppzuowen.com^
+||bdcpro*.techweb.com.cn^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
+||bd*-ys.km.com^
+||uc*.atobo.com^
+||impservice*.youdao.com^
+||gcw*.2liang.cn^
+||fanpingbi*.gaokao.com^
+||ac*.faxingchina.com^
+||fpb*.51edu.com^
+||js*.abolezi.com^
+||static*.365inews.com^
 ||qpb*.sohu.com^
 ||ky891.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
+||at*.doubanio.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||sax*.sina.
-||cs*.mp3bars.com^
-||datacollector-*.dt.hicloud.com^
-||tracking.olx.
-||d*.ruiwen.com^
-||dn*.ixinwei.com^
-||bdlm*.hc360.com^
-||a*.chajiaotong.com^
-||ac*.786ip.com^
-||analytics*.carambo.la^
-728x90.jpg|
-||ya*.dwstatic.com^
-||report.*.qq.com^
-||ad*.on.cc^
-||d*.xinshipu.com^
-||ja*.gamersky.com^
-||ubacollect-*.cloud.dbankcloud.cn^
-||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
 ||dm*.yxlady.com^
-||analytics.streamfab.
-||stat.*.v-56.com^
+||sax*.sina.
 ||same*.stockstar.com^
 ||tupian888.*.bcebos.com^
-||stats-*.p2pnow.ru^
+||get-me-wow.
+||d*.ruiwen.com^
+||dn*.ixinwei.com^
 ||impservice*.yodao.com^
-||beacons*.gvt3.com^
+||bdlm*.hc360.com^
+||a*.chajiaotong.com^
 ||fpb1.chinacar.
-||ax.*.ifeng.com^
+||ac*.786ip.com^
+728x90.jpg|
+||ya*.dwstatic.com^
+||ad*.on.cc^
+||d*.xinshipu.com^
 ||121.204.246.*.gif
 ||acookie.*.gif?
-||collector.xhamster*.
 ||sam*.baby-kingdom.com^
-||union*.365inews.com^
-||spryptvqguhpwt^
 ||vns86.oss-*.aliyuncs.com^
+||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||analytics.streamfab.
+||stat.*.v-56.com^
+||cs*.mp3bars.com^
+||stats-*.p2pnow.ru^
+||datacollector-*.dt.hicloud.com^
+||tracking.olx.
+||beacons*.gvt3.com^
+||analytics*.carambo.la^
+||report.*.qq.com^
+||ax.*.ifeng.com^
+||collector.xhamster*.
+||union*.365inews.com^
+||ja*.gamersky.com^
+||spryptvqguhpwt^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||analytics.*.sky.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||bc.geocities.
@@ -194,28 +195,28 @@
 ||log*.byteoversea.com^
 ||host*.rigbyandpeller.com^
 ||batchlogging*-noneu.truecaller.com^
+||tw*.netcore.co.in^
 ||imp-*.jampp.com^
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||analytics-api.dvdfab.
+||collector-*.px-client.net^
+||df.infra.sz.shopee.
+||tccd.douglas.
+||stats2.*.fdnames.com^
+||analytics.ticketmaster.
+||tracker.twenga.
+||df.infra.shopee.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||metric*.rediff.com^
+||onetrust.
 ||collect-v*.51.la^
 ||log-collector.shopee.
 ||sta.zone-telechargement.
 ||sta.extreme-down.
 ||log*-misc-lf.amemv.com^
 ||mon*-*.tiktokv.us^
-||tw*.netcore.co.in^
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||analytics-api.dvdfab.
-||collector-*.px-client.net^
-||df.infra.sz.shopee.
-||onetrust.
-||tccd.douglas.
-||stats2.*.fdnames.com^
-||analytics.ticketmaster.
-||tracker.twenga.
-||df.infra.shopee.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
 ||gtmdev.jabra.
