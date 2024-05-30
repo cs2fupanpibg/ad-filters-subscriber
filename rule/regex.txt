@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-30 00:20:10
+! Last Modified: 2024-05-30 09:10:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||ads*-normal-hl.amemv.com^
@@ -52,8 +52,8 @@
 ||sensorsdata*.read.duokan.com^
 728x90.jpg|
 ||iwanshang*.asia^
-||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
+||ad*.on.cc^
 ||faro-collector-prod-*.grafana.net^
 ||rum*.cdnvideo.ru^
 ||ysdm*.ys137.com.cn^
@@ -67,8 +67,8 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||bc.geocities.
-||bdcpro*.techweb.com.cn^
 ||iptracker-lb-*.amazonaws.com^
+||bdcpro*.techweb.com.cn^
 ||bd*-ys.km.com^
 ||uc*.atobo.com^
 ||device-metrics-us*.amazon.com^
@@ -121,8 +121,6 @@ directtrack.*.js
 ||analytics.*.sky.com^
 ||batchlogging*-noneu.truecaller.com^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
-||get-me-wow.
-! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||datacollect*.abtasty.com^
 ||batchlogging*-eu.truecaller.com^
 ||metric*.rediff.com^
@@ -144,6 +142,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||hstats*.hepsiburada.com^
 ||collector-*.px-client.net^
 ||matt.mercadolibre.
+||get-me-wow.
 ||tracking.olx.
 ||browser-intake-*-datadoghq.com^
 ||rum*.a.trbcdn.net^
@@ -153,9 +152,10 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||stats*.videonow.ru^
-||spryptvqguhpwt^
 ||track.*.roku.com^
 ||backstory.ebay.
+! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
+||spryptvqguhpwt^
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.yeptube.
 ||23.109.82.
@@ -166,19 +166,14 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||rtlog*.tiktokv.com^
 ||xlog*-*.tiktokv.com^
 ||158.247.208.
-||util-*.simply-hentai.com^
 ||host*.carl-ras.dk^
-||centent.streamp1ay.
 ||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
-||23.109.87.
 ||wa.gmx.
+||23.109.87.
 ||log*-applog-*.tiktokv.com^
 ||t.delfi.
 ||counter*-yadro*-ru.unblocked.lol^
 ||lively-collect-elb-*.amazonaws.com^
-||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||mobileanalytics.*.amazonaws.com^
 ||t*.zcvh.net^
@@ -195,10 +190,13 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||trk*.vidible.tv^
 ||analytics*.carambo.la^
 ||api*.amplitude.com^
+||util-*.simply-hentai.com^
 ||gscounters.*.gigya.com^
 ||c*hit.zerkalo.io^
 ||seller-log-collector.shopee.
+||centent.streamp1ay.
 ||sta.zone-telechargement.
+||allsportsflix.
 ||st-*.dynamicyield.com^
 ||appanalysis*.banggood.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -215,10 +213,12 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||stats.zone-annuaire.
 ||analytics*.prezly.com^
 ||pixel-*.rubiconproject.com^
+||cas.*.criteo.com^
 ||piano_log.kingsoft.jp^
 ||collector*.ex.co^
 ||mon*-*.tiktokv.us^
 ||log*.byteoversea.com^
+||cintent.streanplay.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||analytics.streamfab.
 ||stats-*.p2pnow.ru^
@@ -226,27 +226,27 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log-collector.shopee.
 ||datacollector-*.dt.hicloud.com^
 ||tnc16-*.byteoversea.com^
-||tccd.douglas.
 ||ce-global-track-*.amazonaws.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||invenio_tracking_*.sgnapps.com^
 ||collect-elb-*.amazonaws.com^
-||geotargetly-api-*.com^
 ||events-api*.outfit7.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||log-*.previewnetworks.com^
 ||df.infra.shopee.
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 ||cnt.winporn.
+||cnt.vivatube.
+||tccd.douglas.
+||cnt.nuvid.
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 ||host*.polaroid.com^
 ||events*.cre.ma^
 ||app-analytics-*.snapchat.com^
+||geotargetly-api-*.com^
 ||collector-*.tvsquared.com^
 ||onetrust.
 ||px*.mediahills.ru^
-||cnt.vivatube.
 ||analyzer*.fc2.com^
-||cnt.nuvid.
 ||pxl-*.ozone.ru^
 ||lt*.tritondigital.com^
