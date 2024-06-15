@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-06-15 09:11:22
+! Last Modified: 2024-06-15 16:19:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: DD-AD (https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt)
 127.0.0.1 www.chemdraw.com.cn
@@ -1872,8 +1872,8 @@
 127.0.0.1 g2.gumgum.com
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
-127.0.0.1 4009997658.com
 127.0.0.1 c.cnzz.com
+127.0.0.1 4009997658.com
 127.0.0.1 www2s.j8inn1zektoe.com
 127.0.0.1 cams.com
 127.0.0.1 ad.aspm.jp
@@ -2169,8 +2169,8 @@
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 rec.g.163.com
-127.0.0.1 static-ssl.mediav.com
 127.0.0.1 cm.baidu.com
+127.0.0.1 static-ssl.mediav.com
 127.0.0.1 freeteen.com
 127.0.0.1 new.atas.io
 127.0.0.1 api.myadsget.com
@@ -3270,8 +3270,8 @@
 127.0.0.1 click1n.soufun.com
 127.0.0.1 www.h163e.com
 127.0.0.1 s59.cnzz.com
-127.0.0.1 acadiannaturecruises.mobi
 127.0.0.1 hzs3.cnzz.com
+127.0.0.1 acadiannaturecruises.mobi
 127.0.0.1 cd002.www.duba.net
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 www.7355000.com
@@ -4221,8 +4221,8 @@
 127.0.0.1 web.adriver.ru
 127.0.0.1 cdn.outfit7.com
 127.0.0.1 plufdsb.com
-127.0.0.1 feed.baidu.com
 127.0.0.1 hzs12.cnzz.com
+127.0.0.1 feed.baidu.com
 127.0.0.1 ad.ikonke.com
 127.0.0.1 cytroncdn.videojj.com
 127.0.0.1 www.bb-503.com
